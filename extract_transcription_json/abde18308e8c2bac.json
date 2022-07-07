@@ -1,0 +1,568 @@
+{
+    "values": [
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/aa885c26-ce7d-46f7-9207-2dbe4499e1da",
+            "name": "report.json",
+            "kind": "TranscriptionReport",
+            "properties": {
+                "size": 7392
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_report.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=uZ4z4VY9ViSHGDMpUf5DphjeWjTLM2PvcMLZuKWXiOg%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/3fd7d294-901a-4758-ad4c-0338dd8cf982",
+            "name": "contenturl_13.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 179716
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_13_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=z55QZDtyHEQac2V8uvhZAQv%2FZMq%2BjRaDXuygnNaTbaU%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/9f8fdeae-f611-4f24-add0-09347ef0d143",
+            "name": "contenturl_17.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 948250
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_17_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=Ig1TCjT0JoikDfRybjL%2BGN9ABt7Xvl9Y9VzoOalEvMw%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/56caa359-b5d7-49e0-890c-0c469eb17e54",
+            "name": "contenturl_29.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 271293
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_29_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=%2BTBXlzAZhcqmhEPxNliJo%2FRaGyZ0z7kX4LgxjSO%2FdOA%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/c7c90b3a-99e5-4bbf-abda-0da13d120bd2",
+            "name": "contenturl_3.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 308245
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_3_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=4PnPZcXLnAM1s%2BOVsjEpgjkHP2XsCgPVCOfn%2F4Fa5FA%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/31ee8d56-d72f-430b-94d7-0e517be00cf4",
+            "name": "contenturl_33.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 767440
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_33_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=G1DM7pGaI6e%2BmSee2KRfAuifEs6f9YUIXPdRcd%2Fu56g%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/ea1333e9-dc5d-42da-82e6-0f10b05e3ece",
+            "name": "contenturl_0.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 83190
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_0_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=0FRU7V5Mu5N4CqL2K5u%2FLsNGdMUtF9oc78QS10z2ml0%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/cd4c2f67-3733-469c-b8a9-0fb0c00a90fc",
+            "name": "contenturl_14.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 330164
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_14_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=fQAvIAdZQLoocIiu3esf4%2FnfAd3XDKtCES4t6vZvva4%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/6c870b0b-4ff7-4e63-9511-11b2913c17c2",
+            "name": "contenturl_32.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 303365
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_32_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=LhiEyUqNCACFyMzAVHAiUrNIirOAi%2FM0j%2BLlI0e1gtg%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/646f544f-8aab-46c8-a569-135cd499c461",
+            "name": "contenturl_41.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 199265
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_41_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=jX0%2BkR%2Fq4if2kTEfsAl6ywcutZ%2BC1sqcO1IQPznJR8s%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/5582983d-44ef-4d7a-b411-1d72846427ff",
+            "name": "contenturl_30.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 278565
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_30_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=3kBzuuqsdjkv0E%2FFCHoWoEDI%2FBWByqCDiE4wZRSUlkw%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/a33a4549-388f-4ef3-b187-1e6550201fa9",
+            "name": "contenturl_34.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 444184
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_34_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=LxoVgpLm9JW5eXJSppfmJ8lJh%2Ba3fBJschCYudNQ4J0%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/ea205fb6-dfaa-4c29-8b9e-2aae485700e2",
+            "name": "contenturl_39.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 6895
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_39_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=uK95w3KU8YBSSYbLoLvZGEs1qz1HenQBupzNDtGmmnE%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/c24f3067-46ca-420d-9255-32845c422324",
+            "name": "contenturl_1.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 86136
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_1_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=OrjdoJ9kYugkcFTUDTjhz57vcfPFm9oYuq7MBsQuNEs%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/8ca55bec-13ad-4d01-a564-38ed4b9dd8b7",
+            "name": "contenturl_2.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 746874
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_2_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=CJEkA%2FtHrsmDt3rBn5VyrzMmdWUEqGLwv8u8yJ8CuDg%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/1a15e495-4cbb-4996-a038-3f85529539f4",
+            "name": "contenturl_9.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 138751
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_9_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=dq2GPtRMz5bTWcr42qdkXmAmA7gkaU5V%2BVFN38yu9MY%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/44260a92-9e5e-475b-b2f9-48efebda72f6",
+            "name": "contenturl_6.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 263456
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_6_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=n3HxhrtaJVY7cZ1HIlJStp1VptTX3K7INR32duptMFQ%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/09664afd-9d43-4ee8-a709-4cfb666128ef",
+            "name": "contenturl_22.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 576280
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_22_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=dcA1PunnMJRe5DfD2AhlseRHj%2Fi6ISWI20l%2BgWm2Clk%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/866e4418-27fc-46b5-8d47-4dcc20559ef7",
+            "name": "contenturl_11.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 156623
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_11_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=sM%2BZ5Ia0VHAiIu%2BcGRyVcyKlPR9sFmRQuBurZlkFtls%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/79a196bd-618d-4be0-8035-4e8eba17f54e",
+            "name": "contenturl_21.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 387917
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_21_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=cWsazhy99ZmJ2VL3c3FpNh%2FZMF2JzBjdSNGhVMa8P%2FE%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/c7ab203d-d330-4158-89f7-53cccbf20913",
+            "name": "contenturl_16.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 628996
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_16_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=KbKODvVnZP0miYwYOlPXMcPlR7QK6EhbbhX6f3lSUW0%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/ce016e08-5124-49db-9d30-57b6e5993ad3",
+            "name": "contenturl_19.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 379956
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_19_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=ZeamxOQswyYkCE1zRGdZ1SfocDGiQP2l9Ufo9DRK0bA%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/fa64d7f5-eb4b-4c74-afb6-594c016a57d4",
+            "name": "contenturl_5.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 204895
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_5_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=ZXv6urD1xbD4EAsXrNIgAaVz8IkhR0OJFxcYsDKiz0Q%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/0df5e2bf-1160-4ac8-93f6-59f17793df4c",
+            "name": "contenturl_36.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 414701
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_36_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=wePRdm2yI4IZ9Tu46GvhM%2B5dnljMQGstMNwGKQpP%2F%2Fc%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/4eb66912-d016-4417-937a-63e29de37db0",
+            "name": "contenturl_40.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 197327
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_40_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=Q%2B9%2FH9LGJE5qj2e7xWHkNy06Sr4Z2XT%2FSz8jiNZAtjo%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/fe8168d8-d710-4d99-8969-66bc3c97610a",
+            "name": "contenturl_4.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 148422
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_4_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=r%2FGHHooGCE8Lhjg4UGBhsykIqpQoq8Ukjp59%2FbTDqlU%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/3dbc8132-e79b-4de9-a919-6952a0096e4f",
+            "name": "contenturl_38.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 320060
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_38_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=5dsAX43y%2FM%2BBifEinSkwoyTWDtCfDbTvz7f4k0jnl2k%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/447d262c-ebbd-4c99-931f-6aae815b264e",
+            "name": "contenturl_15.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 443452
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_15_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=Qe4g8eHnU3Csp2KYWNQr2Zsds9%2BA%2FD7pdonS2hA3Kx4%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/e84e519a-c0b4-4321-b551-71412b3c6e18",
+            "name": "contenturl_24.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 85793
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_24_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=zncdh%2F5CK1MvGDMXUTYKokfkW8ub22zi3HJDrYRpvEg%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/960327ca-3e0d-4620-bb4d-77a0d60259df",
+            "name": "contenturl_23.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 434452
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_23_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=Bkx7be7v%2BR3Q2cT%2BG4OE58Jv4Crhly1brUGuhSBGngA%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/038492dc-99e8-42de-97db-7cd64eeb1ce5",
+            "name": "contenturl_20.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 188657
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_20_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=X6dWJbIpac9kHYpprEx1jQylL0dRF4ZbPRuyQrClv8s%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/3ea6b90c-512a-4202-b33d-7def1c84ccdc",
+            "name": "contenturl_31.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 107323
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_31_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=TadXqkQ7SC3OyXaPPjClKjddAp3eIbfQxVKHJ6emGD8%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/d82d9723-0a47-49f8-9e8b-855b313ca064",
+            "name": "contenturl_18.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 548005
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_18_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=Sdp3gQqwZ5XRfAhUORzWDKMMzClvq%2B2tY6gRtLdjwzg%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/30d05f51-95c5-439f-a780-a19c6dc185e0",
+            "name": "contenturl_12.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 151544
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_12_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=cVj%2FsGyxzaOhSFrb6PVenVUcosQ71b2rEKqdZ10hHgc%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/7cc947bc-ee67-4883-ba7d-a67642677cf1",
+            "name": "contenturl_10.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 303962
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_10_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=QPYZWkEkG3Khi5kB%2FWOozRPU21ILZqlcHSwfEUPROik%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/ce51ae48-7ded-465e-b881-ade9b95de61b",
+            "name": "contenturl_43.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 106687
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_43_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=DMHKay1ropxByEp5%2FH9QEt4lwJitL2f29MSBvwj9hKw%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/c2533698-5cfc-41d1-912e-b04513409d36",
+            "name": "contenturl_37.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 593409
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_37_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=dLvuom71lSXXh8nWGapzGcZT6we4xFkjqwowKqF6CTI%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/82ecf0f4-430d-4d6e-98ae-bdffe9c62a7c",
+            "name": "contenturl_7.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 458265
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_7_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=Wd%2F2br9pWr2E1EECJLm%2Bc7Q0bwqpxc3CNyXWe9tOHeM%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/99a2733f-8ba3-4d34-bf27-d2d508bc6451",
+            "name": "contenturl_35.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 844557
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_35_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=SFdel%2B8MQjEpwq1xE2VOiQ445bNXBlYzc5DvPUd9G2A%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/573d4113-eba0-496b-b92b-df04fd466d2d",
+            "name": "contenturl_27.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 126310
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_27_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=wU62YHNeAL0cAZUJ4HKXmd2NMTy1FL3XxcbAnv3CXy4%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/66a362e0-b840-4161-b814-e12d4eeef8c1",
+            "name": "contenturl_45.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 73184
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_45_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=mOGxR2KaSeqW9Eyrmb8QB2N0KOvDY%2FU266RLsZPxJYU%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/b9797598-9dce-4cf7-a00b-e45b09a3be56",
+            "name": "contenturl_8.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 202342
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_8_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=qasjAPMD5YmAy0qNLVqJLOQm19OZqV5R3V%2BWa8OGaKQ%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/37cc74fe-8d24-4628-bbcd-e8836cdded1a",
+            "name": "contenturl_42.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 150282
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_42_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=KT1y7WpuPlDnOkXnfUfevZJEOvQV2r7Bs3WmnJ%2FIRCY%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/5907a5a9-e6a9-4463-b487-ec0df0fbe26e",
+            "name": "contenturl_25.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 298801
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_25_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=zN5FaRUyB0X74OwWMu6sgkrJVA5ipOBQFiD0doizveI%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/bae58187-5c30-4edc-974f-ecaf22f0534e",
+            "name": "contenturl_26.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 170629
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_26_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=Y5wWVZ2Q4hHBcRTQEH9tYKOctktnx3D7Se4HnJaxxmY%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/e5e0c1f2-60a6-4043-9bc2-edb9eae835d0",
+            "name": "contenturl_44.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 128056
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_44_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=Tj%2FvpfyRtXEgzSTmjA3NNdUAYrlLqPtQTgeNBYUQYFk%3D"
+            }
+        },
+        {
+            "self": "https://centralindia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd/files/23819407-0640-4af6-9cd4-fae8fc3a45dc",
+            "name": "contenturl_28.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 289448
+            },
+            "createdDateTime": "2022-06-03T10:10:41Z",
+            "links": {
+                "contentUrl": "https://spsvcprodinc.blob.core.windows.net/bestor-948e9f4b-98f0-414a-b695-603be7bddabe/TranscriptionData/0aa4c619-2dbf-4cea-a6f6-2eb32b4554bd_28_0.json?sv=2021-04-10&st=2022-06-09T06%3A19%3A27Z&se=2022-06-09T18%3A24%3A27Z&sr=b&sp=rl&sig=XPDOwVPPyCX6yS4HYdAwWmeJKXMKbaEhFiSdHg7WDdk%3D"
+            }
+        }
+    ]
+}

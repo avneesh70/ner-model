@@ -1,0 +1,225 @@
+{
+  "source": "https://pharynxaitranscribe.blob.core.windows.net/abde18308e8c2bac/abde18308e8c2bac_8_5_20227.wav",
+  "timestamp": "2022-06-03T09:39:18Z",
+  "durationInTicks": 478200000,
+  "duration": "PT47.82S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "अच्छा बोल घूमने और चलेगा तो उसके बाद ऐसा क्या है",
+      "itn": "अच्छा बोल घूमने और चलेगा तो उसके बाद ऐसा क्या है",
+      "maskedITN": "अच्छा। बोल घूमने। और। चलेगा तो उसके बाद। ऐसा क्या है",
+      "display": "अच्छा। बोल? घूमने। और। चलेगा तो उसके बाद। ऐसा क्या है?"
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.97S",
+      "duration": "PT0.48S",
+      "offsetInTicks": 9700000.0,
+      "durationInTicks": 4800000.0,
+      "nBest": [
+        {
+          "confidence": 0.4080364,
+          "lexical": "अच्छा",
+          "itn": "अच्छा",
+          "maskedITN": "अच्छा।",
+          "display": "अच्छा।",
+          "words": [
+            {
+              "word": "अच्छा",
+              "offset": "PT0.97S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 9700000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.4080364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT4.88S",
+      "duration": "PT0.37S",
+      "offsetInTicks": 48800000.0,
+      "durationInTicks": 3700000.0,
+      "nBest": [
+        {
+          "confidence": 0.45393595,
+          "lexical": "बोल",
+          "itn": "बोल",
+          "maskedITN": "बोल",
+          "display": "बोल?",
+          "words": [
+            {
+              "word": "बोल",
+              "offset": "PT4.88S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 48800000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.45393598
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT25.23S",
+      "duration": "PT0.52S",
+      "offsetInTicks": 252300000.0,
+      "durationInTicks": 5200000.0,
+      "nBest": [
+        {
+          "confidence": 0.5331133,
+          "lexical": "घूमने",
+          "itn": "घूमने",
+          "maskedITN": "घूमने।",
+          "display": "घूमने।",
+          "words": [
+            {
+              "word": "घूमने",
+              "offset": "PT25.23S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 252300000.0,
+              "durationInTicks": 5200000.0,
+              "confidence": 0.5331133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT27.46S",
+      "duration": "PT0.5S",
+      "offsetInTicks": 274600000.0,
+      "durationInTicks": 5000000.0,
+      "nBest": [
+        {
+          "confidence": 0.4783173,
+          "lexical": "और",
+          "itn": "और",
+          "maskedITN": "और।",
+          "display": "और।",
+          "words": [
+            {
+              "word": "और",
+              "offset": "PT27.46S",
+              "duration": "PT0.5S",
+              "offsetInTicks": 274600000.0,
+              "durationInTicks": 5000000.0,
+              "confidence": 0.4783173
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT38.66S",
+      "duration": "PT1.16S",
+      "offsetInTicks": 386600000.0,
+      "durationInTicks": 11600000.0,
+      "nBest": [
+        {
+          "confidence": 0.47716722,
+          "lexical": "चलेगा तो उसके बाद",
+          "itn": "चलेगा तो उसके बाद",
+          "maskedITN": "चलेगा तो उसके बाद।",
+          "display": "चलेगा तो उसके बाद।",
+          "words": [
+            {
+              "word": "चलेगा",
+              "offset": "PT38.66S",
+              "duration": "PT0.53S",
+              "offsetInTicks": 386600000.0,
+              "durationInTicks": 5300000.0,
+              "confidence": 0.29207504
+            },
+            {
+              "word": "तो",
+              "offset": "PT39.2S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 392000000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.2381539
+            },
+            {
+              "word": "उसके",
+              "offset": "PT39.4S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 394000000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.759711
+            },
+            {
+              "word": "बाद",
+              "offset": "PT39.6S",
+              "duration": "PT0.22S",
+              "offsetInTicks": 396000000.0,
+              "durationInTicks": 2200000.0,
+              "confidence": 0.87387884
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT43.13S",
+      "duration": "PT0.78S",
+      "offsetInTicks": 431300000.0,
+      "durationInTicks": 7800000.0,
+      "nBest": [
+        {
+          "confidence": 0.52107894,
+          "lexical": "ऐसा क्या है",
+          "itn": "ऐसा क्या है",
+          "maskedITN": "ऐसा क्या है",
+          "display": "ऐसा क्या है?",
+          "words": [
+            {
+              "word": "ऐसा",
+              "offset": "PT43.13S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 431300000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.19461027
+            },
+            {
+              "word": "क्या",
+              "offset": "PT43.5S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 435000000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.7973077
+            },
+            {
+              "word": "है",
+              "offset": "PT43.78S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 437800000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.8314316
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

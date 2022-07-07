@@ -1,0 +1,5737 @@
+{
+  "source": "https://pharynxaitranscribe.blob.core.windows.net/abde18308e8c2bac/abde18308e8c2bac_9_5_20221.wav",
+  "timestamp": "2022-06-03T10:04:19Z",
+  "durationInTicks": 18000000000,
+  "duration": "PT30M",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "सही है जोड़ें फिर और विशाल फीलिंग दो दस रुपये वाले गोपी कंप्लीट दिल्ली घड़ी ज़रा एक किलो कंप्लीट सारे ठीक है अर्चना लगे रक्षित कौन है उसका रुक्मणी अरे अमित गुड्डी हाँ हाँ हाँ तो मिस्टर होगी पांच लाख नहीं पांच सौ पांच रुपए जी जी जी सॉरी क्रिकेट दिल्ली ये ये सर अक्सीडेंट का वो तो पंद्रह दस पंद्रह छोटे वाला अरे तो आ ही रही है हाँ हाँ बताये मुझे आप ऐसे ही करें मुझे लगता है पांच परिवहन जो मेरे पास काम पड़ा है फटाफट बोल काम कर रही हूँ दुकान में कौन सी चॉकलेट मुझे बीस रुपए का डेरी मिल्क मानकर चालीस वो तो मैं क्या करूँ बोल रौशन कुमार भी मुख्यालय कुमार ये तो आएगा ही कितने डेट करना चाहिए रेल गाडी नहीं आ रही बीच में आ गयी जरूरत नहीं है भाई सॉरी पैंतीस नहीं कितना अच्छा है इनका इस्राइल आ गया कॉल टू वेलकम टु यू गाड़ी खाली कर के आगे गाड़ी सोनिया चक्कर मार लिया कर सालाना मज़ा आया ना मैं उनका मैसेज आया की कलाई है सर यार ये बता दिया है यहाँ पे मैं कॉल तो आया नहीं कल शाम को अच्छा आपने घर में दिन का आ गया होगा ये डरा जी आपकी नहीं ये क्या है इसका रिकॉर्ड नहीं है नब्बे नब्बे पानी भी नहीं है इनके पास और आप हो गया कौन सा गाना है उसने चार दो घंटा कर देना कॉल भी आ जाएगी ठंडक कम कर लूँ और आठ घंटे करो वो भी नहीं है यहाँ से मेरे को बोलने के लिए अब ये बताओ मेरे घर के पास आ गया कहा जाएंगे वैसे भी कही सारे हम तो देख ही लगे है की मैं ये बेटा तुम्हारे फायदा नहीं है नारायण पंद्रह पंद्रह पंद्रह हाँ तो वो रहे हैं नहीं दिल का डाल देना हो गया जी क्या कर दिया मैंने कर क्या रहा है ये भाई हाँ जिम का कर दो और आज उस पे कर दो इस बार ज्यादा होगी अब इसमें ऐसा करो ना हो गया वो और और हाँ तेरे मम्मी पापा जी ऐसा इसमें ऐसा करना इनका क्या क्या कर रहे हैं मैं तो इसमें वो करो दस दिन का कर दो कितना पंद्रह रही है कम से कम दो आदमी क्या है अनुराज क्या नाम है उसका उसका क्या नाम है छोटे वाले का हाँ सहेलियां हाँ क्या देख दिवाली मुझे इस बनाना है इसका ना हो गया तुम इतना ही नहीं अरे यार नया कुंजी है नहीं सर पानी है ना",
+      "itn": "सही है जोड़ें फिर और विशाल फीलिंग दो ₹10 वाले गोपी कंप्लीट दिल्ली घड़ी ज़रा एक किलो कंप्लीट सारे ठीक है अर्चना लगे रक्षित कौन है उसका रुक्मणी अरे अमित गुड्डी हाँ हाँ हाँ तो मिस्टर होगी 5,00,000 नहीं ₹505 जी जी जी सॉरी क्रिकेट दिल्ली ये ये सर अक्सीडेंट का वो तो 151015 छोटे वाला अरे तो आ ही रही है हाँ हाँ बताये मुझे आप ऐसे ही करें मुझे लगता है पांच परिवहन जो मेरे पास काम पड़ा है फटाफट बोल काम कर रही हूँ दुकान में कौन सी चॉकलेट मुझे ₹20 का डेरी मिल्क मानकर 40 वो तो मैं क्या करूँ बोल रौशन कुमार भी मुख्यालय कुमार ये तो आएगा ही कितने डेट करना चाहिए रेल गाडी नहीं आ रही बीच में आ गयी जरूरत नहीं है भाई सॉरी 35 नहीं कितना अच्छा है इनका इस्राइल आ गया कॉल टू वेलकम टु यू गाड़ी खाली कर के आगे गाड़ी सोनिया चक्कर मार लिया कर सालाना मज़ा आया ना मैं उनका मैसेज आया की कलाई है सर यार ये बता दिया है यहाँ पे मैं कॉल तो आया नहीं कल शाम को अच्छा आपने घर में दिन का आ गया होगा ये डरा जी आपकी नहीं ये क्या है इसका रिकॉर्ड नहीं है 9090 पानी भी नहीं है इनके पास और आप हो गया कौन सा गाना है उसने चार दो घंटा कर देना कॉल भी आ जाएगी ठंडक कम कर लूँ और 8 घंटे करो वो भी नहीं है यहाँ से मेरे को बोलने के लिए अब ये बताओ मेरे घर के पास आ गया कहा जाएंगे वैसे भी कही सारे हम तो देख ही लगे है की मैं ये बेटा तुम्हारे फायदा नहीं है नारायण 151515 हाँ तो वो रहे हैं नहीं दिल का डाल देना हो गया जी क्या कर दिया मैंने कर क्या रहा है ये भाई हाँ जिम का कर दो और आज उस पे कर दो इस बार ज्यादा होगी अब इसमें ऐसा करो ना हो गया वो और और हाँ तेरे मम्मी पापा जी ऐसा इसमें ऐसा करना इनका क्या क्या कर रहे हैं मैं तो इसमें वो करो 10 दिन का कर दो कितना 15 रही है कम से कम दो आदमी क्या है अनुराज क्या नाम है उसका उसका क्या नाम है छोटे वाले का हाँ सहेलियां हाँ क्या देख दिवाली मुझे इस बनाना है इसका ना हो गया तुम इतना ही नहीं अरे यार नया कुंजी है नहीं सर पानी है ना",
+      "maskedITN": "सही है। जोड़ें। फिर। और। विशाल। फीलिंग दो। ₹10 वाले। गोपी कंप्लीट। दिल्ली। घड़ी ज़रा। एक किलो कंप्लीट। सारे। ठीक है। अर्चना लगे। रक्षित। कौन है उसका रुक्मणी। अरे अमित गुड्डी हाँ हाँ। हाँ। तो मिस्टर होगी 5,00,000 नहीं ₹505 जी जी। जी सॉरी। क्रिकेट दिल्ली। ये। ये। सर अक्सीडेंट का वो। तो 151015। छोटे वाला। अरे तो आ ही रही है। हाँ। हाँ। बताये। मुझे आप। ऐसे ही करें। मुझे लगता है। पांच। परिवहन। जो मेरे पास काम पड़ा है फटाफट बोल काम कर रही हूँ दुकान में कौन सी चॉकलेट मुझे ₹20 का डेरी मिल्क मानकर 40। वो तो मैं। क्या करूँ बोल रौशन कुमार भी मुख्यालय कुमार। ये तो आएगा ही। कितने डेट करना चाहिए रेल गाडी। नहीं आ रही बीच में आ गयी। जरूरत नहीं है भाई। सॉरी। 35। नहीं। कितना अच्छा है। इनका इस्राइल आ गया। कॉल टू। वेलकम टु यू। गाड़ी खाली कर के आगे गाड़ी। सोनिया चक्कर मार लिया कर। सालाना। मज़ा आया ना मैं उनका मैसेज आया की कलाई है सर यार ये बता दिया है यहाँ पे मैं कॉल तो आया नहीं कल शाम को। अच्छा आपने घर में दिन का आ गया होगा। ये डरा जी आपकी नहीं ये क्या है इसका रिकॉर्ड नहीं है। 9090। पानी भी नहीं है इनके पास और आप हो गया। कौन सा गाना है उसने चार दो घंटा कर देना कॉल भी आ जाएगी। ठंडक कम। कर लूँ और 8 घंटे करो। वो भी नहीं है। यहाँ से मेरे को बोलने के लिए अब ये बताओ मेरे घर के पास आ गया। कहा जाएंगे वैसे भी कही सारे हम तो। देख ही लगे है की मैं। ये बेटा। तुम्हारे फायदा नहीं है। नारायण 151515। हाँ। तो वो। रहे हैं। नहीं। दिल का डाल देना। हो गया। जी। क्या कर दिया मैंने कर क्या रहा है ये भाई हाँ जिम का कर दो और आज उस पे कर दो। इस बार ज्यादा होगी। अब इसमें ऐसा करो ना। हो गया वो और और। हाँ तेरे। मम्मी पापा जी। ऐसा इसमें ऐसा करना इनका क्या क्या कर रहे हैं मैं तो इसमें वो करो। 10 दिन का कर दो कितना 15 रही है। कम से कम दो आदमी। क्या है अनुराज क्या नाम है उसका उसका क्या नाम है छोटे वाले का हाँ सहेलियां हाँ क्या देख दिवाली मुझे इस। बनाना है इसका ना हो गया। तुम इतना ही नहीं अरे यार। नया कुंजी है। नहीं सर पानी है। ना",
+      "display": "सही है। जोड़ें। फिर। और। विशाल। फीलिंग दो। ₹10 वाले। गोपी कंप्लीट। दिल्ली। घड़ी ज़रा। एक किलो कंप्लीट। सारे। ठीक है। अर्चना? लगे। रक्षित। कौन है उसका? रुक्मणी। अरे? अमित? गुड्डी? हाँ, हाँ। हाँ। तो? मिस्टर होगी 5,00,000 नहीं ₹505? जी जी। जी सॉरी। क्रिकेट? दिल्ली। ये। ये। सर अक्सीडेंट का? वो। तो? 151015। छोटे वाला। अरे? तो आ ही रही है। हाँ। हाँ। बताये। मुझे आप। ऐसे ही करें। मुझे लगता है। पांच। परिवहन। जो? मेरे पास काम पड़ा है, फटाफट बोल काम कर रही हूँ दुकान में कौन सी चॉकलेट मुझे? ₹20 का डेरी मिल्क मानकर 40। वो तो मैं। क्या करूँ बोल? रौशन कुमार भी मुख्यालय कुमार। ये तो आएगा ही। कितने डेट करना चाहिए? रेल गाडी। नहीं आ रही, बीच में आ गयी। जरूरत नहीं है, भाई। सॉरी। 35। नहीं। कितना अच्छा है। इनका इस्राइल आ गया। कॉल टू। वेलकम टु यू। गाड़ी खाली कर के आगे गाड़ी। सोनिया? चक्कर मार लिया कर। सालाना। मज़ा आया ना? मैं उनका मैसेज आया की कलाई है सर यार ये बता दिया है यहाँ पे मैं कॉल तो आया नहीं कल शाम को। अच्छा आपने घर में दिन का आ गया होगा। ये डरा जी आपकी? नहीं, ये क्या है इसका रिकॉर्ड नहीं है। 9090। पानी भी नहीं है इनके पास और आप? हो गया। कौन सा गाना है? उसने चार दो घंटा कर देना कॉल भी आ जाएगी। ठंडक कम। कर लूँ और 8 घंटे करो। वो भी नहीं है। यहाँ से मेरे को बोलने के लिए अब ये बताओ मेरे घर के पास आ गया। कहा जाएंगे वैसे भी कही सारे हम तो। देख ही लगे है की मैं। ये बेटा। तुम्हारे फायदा नहीं है। नारायण? 151515। हाँ। तो? वो। रहे हैं। नहीं। दिल का डाल देना। हो गया। जी। क्या कर दिया मैंने? कर क्या रहा है ये? भाई हाँ, जिम का कर दो और आज उस पे कर दो। इस बार ज्यादा होगी। अब इसमें ऐसा करो ना। हो गया वो? और और। हाँ तेरे। मम्मी पापा जी। ऐसा इसमें ऐसा करना इनका क्या क्या कर रहे हैं मैं तो इसमें वो करो। 10 दिन का कर दो, कितना 15 रही है। कम से कम दो आदमी। क्या है? अनुराज क्या नाम है उसका, उसका क्या नाम है, छोटे वाले का हाँ? सहेलियां हाँ क्या देख? दिवाली? मुझे इस। बनाना है इसका ना? हो गया। तुम इतना ही नहीं अरे यार। नया कुंजी है। नहीं, सर, पानी है। ना?"
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT2.19S",
+      "duration": "PT0.41S",
+      "offsetInTicks": 21900000.0,
+      "durationInTicks": 4100000.0,
+      "nBest": [
+        {
+          "confidence": 0.6075648,
+          "lexical": "सही है",
+          "itn": "सही है",
+          "maskedITN": "सही है।",
+          "display": "सही है।",
+          "words": [
+            {
+              "word": "सही",
+              "offset": "PT2.19S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 21900000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.47923493
+            },
+            {
+              "word": "है",
+              "offset": "PT2.44S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 24400000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.79628533
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT1M11.3S",
+      "duration": "PT0.43S",
+      "offsetInTicks": 713000000.0,
+      "durationInTicks": 4300000.0,
+      "nBest": [
+        {
+          "confidence": 0.14426923,
+          "lexical": "जोड़ें",
+          "itn": "जोड़ें",
+          "maskedITN": "जोड़ें।",
+          "display": "जोड़ें।",
+          "words": [
+            {
+              "word": "जोड़ें",
+              "offset": "PT1M11.3S",
+              "duration": "PT0.43S",
+              "offsetInTicks": 713000000.0,
+              "durationInTicks": 4300000.0,
+              "confidence": 0.14426923
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT1M13.28S",
+      "duration": "PT0.52S",
+      "offsetInTicks": 732800000.0,
+      "durationInTicks": 5200000.0,
+      "nBest": [
+        {
+          "confidence": 0.2668519,
+          "lexical": "फिर",
+          "itn": "फिर",
+          "maskedITN": "फिर।",
+          "display": "फिर।",
+          "words": [
+            {
+              "word": "फिर",
+              "offset": "PT1M13.28S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 732800000.0,
+              "durationInTicks": 5200000.0,
+              "confidence": 0.2668519
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1M35.97S",
+      "duration": "PT0.43S",
+      "offsetInTicks": 959700000.0,
+      "durationInTicks": 4300000.0,
+      "nBest": [
+        {
+          "confidence": 0.5953679,
+          "lexical": "और",
+          "itn": "और",
+          "maskedITN": "और।",
+          "display": "और।",
+          "words": [
+            {
+              "word": "और",
+              "offset": "PT1M35.97S",
+              "duration": "PT0.43S",
+              "offsetInTicks": 959700000.0,
+              "durationInTicks": 4300000.0,
+              "confidence": 0.5953679
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1M44.06S",
+      "duration": "PT0.7S",
+      "offsetInTicks": 1040600000.0,
+      "durationInTicks": 7000000.0,
+      "nBest": [
+        {
+          "confidence": 0.5093085,
+          "lexical": "विशाल",
+          "itn": "विशाल",
+          "maskedITN": "विशाल।",
+          "display": "विशाल।",
+          "words": [
+            {
+              "word": "विशाल",
+              "offset": "PT1M44.06S",
+              "duration": "PT0.7S",
+              "offsetInTicks": 1040600000.0,
+              "durationInTicks": 7000000.0,
+              "confidence": 0.5093085
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3M35.67S",
+      "duration": "PT1.87S",
+      "offsetInTicks": 2156700000.0,
+      "durationInTicks": 18700000.0,
+      "nBest": [
+        {
+          "confidence": 0.4140512,
+          "lexical": "फीलिंग दो",
+          "itn": "फीलिंग दो",
+          "maskedITN": "फीलिंग दो।",
+          "display": "फीलिंग दो।",
+          "words": [
+            {
+              "word": "फीलिंग",
+              "offset": "PT3M35.67S",
+              "duration": "PT0.67S",
+              "offsetInTicks": 2156700000.0,
+              "durationInTicks": 6700000.0,
+              "confidence": 0.26953417
+            },
+            {
+              "word": "दो",
+              "offset": "PT3M37.23S",
+              "duration": "PT0.31S",
+              "offsetInTicks": 2172300000.0,
+              "durationInTicks": 3100000.0,
+              "confidence": 0.7211499
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3M39.43S",
+      "duration": "PT0.94S",
+      "offsetInTicks": 2194300000.0,
+      "durationInTicks": 9400000.0,
+      "nBest": [
+        {
+          "confidence": 0.63668483,
+          "lexical": "दस रुपये वाले",
+          "itn": "₹10 वाले",
+          "maskedITN": "₹10 वाले।",
+          "display": "₹10 वाले।",
+          "words": [
+            {
+              "word": "दस",
+              "offset": "PT3M39.43S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 2194300000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.568269
+            },
+            {
+              "word": "रुपये",
+              "offset": "PT3M39.71S",
+              "duration": "PT0.21S",
+              "offsetInTicks": 2197100000.0,
+              "durationInTicks": 2100000.0,
+              "confidence": 0.6167598
+            },
+            {
+              "word": "वाले",
+              "offset": "PT3M39.93S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 2199300000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.6889957
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3M42.51S",
+      "duration": "PT1.47S",
+      "offsetInTicks": 2225100000.0,
+      "durationInTicks": 14700000.0,
+      "nBest": [
+        {
+          "confidence": 0.6295092,
+          "lexical": "गोपी कंप्लीट",
+          "itn": "गोपी कंप्लीट",
+          "maskedITN": "गोपी कंप्लीट।",
+          "display": "गोपी कंप्लीट।",
+          "words": [
+            {
+              "word": "गोपी",
+              "offset": "PT3M42.51S",
+              "duration": "PT0.49S",
+              "offsetInTicks": 2225100000.0,
+              "durationInTicks": 4900000.0,
+              "confidence": 0.59290713
+            },
+            {
+              "word": "कंप्लीट",
+              "offset": "PT3M43.17S",
+              "duration": "PT0.81S",
+              "offsetInTicks": 2231700000.0,
+              "durationInTicks": 8100000.0,
+              "confidence": 0.6518276
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3M50.46S",
+      "duration": "PT0.58S",
+      "offsetInTicks": 2304600000.0,
+      "durationInTicks": 5800000.0,
+      "nBest": [
+        {
+          "confidence": 0.63069034,
+          "lexical": "दिल्ली",
+          "itn": "दिल्ली",
+          "maskedITN": "दिल्ली।",
+          "display": "दिल्ली।",
+          "words": [
+            {
+              "word": "दिल्ली",
+              "offset": "PT3M50.46S",
+              "duration": "PT0.58S",
+              "offsetInTicks": 2304600000.0,
+              "durationInTicks": 5800000.0,
+              "confidence": 0.63069034
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3M53.28S",
+      "duration": "PT0.79S",
+      "offsetInTicks": 2332800000.0,
+      "durationInTicks": 7900000.0,
+      "nBest": [
+        {
+          "confidence": 0.7899341,
+          "lexical": "घड़ी ज़रा",
+          "itn": "घड़ी ज़रा",
+          "maskedITN": "घड़ी ज़रा।",
+          "display": "घड़ी ज़रा।",
+          "words": [
+            {
+              "word": "घड़ी",
+              "offset": "PT3M53.28S",
+              "duration": "PT0.43S",
+              "offsetInTicks": 2332800000.0,
+              "durationInTicks": 4300000.0,
+              "confidence": 0.7930393
+            },
+            {
+              "word": "ज़रा",
+              "offset": "PT3M53.72S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 2337200000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.7861387
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT3M55.88S",
+      "duration": "PT1.77S",
+      "offsetInTicks": 2358800000.0,
+      "durationInTicks": 17700000.0,
+      "nBest": [
+        {
+          "confidence": 0.74583143,
+          "lexical": "एक किलो कंप्लीट",
+          "itn": "एक किलो कंप्लीट",
+          "maskedITN": "एक किलो कंप्लीट।",
+          "display": "एक किलो कंप्लीट।",
+          "words": [
+            {
+              "word": "एक",
+              "offset": "PT3M55.88S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 2358800000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.75248575
+            },
+            {
+              "word": "किलो",
+              "offset": "PT3M56.24S",
+              "duration": "PT0.49S",
+              "offsetInTicks": 2362400000.0,
+              "durationInTicks": 4900000.0,
+              "confidence": 0.7743732
+            },
+            {
+              "word": "कंप्लीट",
+              "offset": "PT3M56.84S",
+              "duration": "PT0.81S",
+              "offsetInTicks": 2368400000.0,
+              "durationInTicks": 8100000.0,
+              "confidence": 0.72550666
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT6M15.13S",
+      "duration": "PT0.32S",
+      "offsetInTicks": 3751300000.0,
+      "durationInTicks": 3200000.0,
+      "nBest": [
+        {
+          "confidence": 0.4668217,
+          "lexical": "सारे",
+          "itn": "सारे",
+          "maskedITN": "सारे।",
+          "display": "सारे।",
+          "words": [
+            {
+              "word": "सारे",
+              "offset": "PT6M15.13S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 3751300000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.4668217
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT6M17.34S",
+      "duration": "PT0.31S",
+      "offsetInTicks": 3773400000.0,
+      "durationInTicks": 3100000.0,
+      "nBest": [
+        {
+          "confidence": 0.68022674,
+          "lexical": "ठीक है",
+          "itn": "ठीक है",
+          "maskedITN": "ठीक है।",
+          "display": "ठीक है।",
+          "words": [
+            {
+              "word": "ठीक",
+              "offset": "PT6M17.34S",
+              "duration": "PT0.22S",
+              "offsetInTicks": 3773400000.0,
+              "durationInTicks": 2200000.0,
+              "confidence": 0.62595296
+            },
+            {
+              "word": "है",
+              "offset": "PT6M17.57S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 3775700000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.81892645
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT8M28.78S",
+      "duration": "PT0.36S",
+      "offsetInTicks": 5087800000.0,
+      "durationInTicks": 3600000.0,
+      "nBest": [
+        {
+          "confidence": 0.35392317,
+          "lexical": "अर्चना",
+          "itn": "अर्चना",
+          "maskedITN": "अर्चना",
+          "display": "अर्चना?",
+          "words": [
+            {
+              "word": "अर्चना",
+              "offset": "PT8M28.78S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 5087800000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.35392317
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT8M31.6S",
+      "duration": "PT0.48S",
+      "offsetInTicks": 5116000000.0,
+      "durationInTicks": 4800000.0,
+      "nBest": [
+        {
+          "confidence": 0.16217324,
+          "lexical": "लगे",
+          "itn": "लगे",
+          "maskedITN": "लगे।",
+          "display": "लगे।",
+          "words": [
+            {
+              "word": "लगे",
+              "offset": "PT8M31.6S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 5116000000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.16217324
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT9M21.29S",
+      "duration": "PT0.56S",
+      "offsetInTicks": 5612900000.0,
+      "durationInTicks": 5600000.0,
+      "nBest": [
+        {
+          "confidence": 0.26548326,
+          "lexical": "रक्षित",
+          "itn": "रक्षित",
+          "maskedITN": "रक्षित।",
+          "display": "रक्षित।",
+          "words": [
+            {
+              "word": "रक्षित",
+              "offset": "PT9M21.29S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 5612900000.0,
+              "durationInTicks": 5600000.0,
+              "confidence": 0.26548326
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT9M51.16S",
+      "duration": "PT0.73S",
+      "offsetInTicks": 5911600000.0,
+      "durationInTicks": 7300000.0,
+      "nBest": [
+        {
+          "confidence": 0.6511497,
+          "lexical": "कौन है उसका",
+          "itn": "कौन है उसका",
+          "maskedITN": "कौन है उसका",
+          "display": "कौन है उसका?",
+          "words": [
+            {
+              "word": "कौन",
+              "offset": "PT9M51.16S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 5911600000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.6924668
+            },
+            {
+              "word": "है",
+              "offset": "PT9M51.44S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 5914400000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.7238863
+            },
+            {
+              "word": "उसका",
+              "offset": "PT9M51.6S",
+              "duration": "PT0.29S",
+              "offsetInTicks": 5916000000.0,
+              "durationInTicks": 2900000.0,
+              "confidence": 0.5737941
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT9M53.5S",
+      "duration": "PT0.86S",
+      "offsetInTicks": 5935000000.0,
+      "durationInTicks": 8600000.0,
+      "nBest": [
+        {
+          "confidence": 0.12465832,
+          "lexical": "रुक्मणी",
+          "itn": "रुक्मणी",
+          "maskedITN": "रुक्मणी।",
+          "display": "रुक्मणी।",
+          "words": [
+            {
+              "word": "रुक्मणी",
+              "offset": "PT9M53.5S",
+              "duration": "PT0.86S",
+              "offsetInTicks": 5935000000.0,
+              "durationInTicks": 8600000.0,
+              "confidence": 0.12465832
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT10M7.69S",
+      "duration": "PT0.5S",
+      "offsetInTicks": 6076900000.0,
+      "durationInTicks": 5000000.0,
+      "nBest": [
+        {
+          "confidence": 0.2561092,
+          "lexical": "अरे",
+          "itn": "अरे",
+          "maskedITN": "अरे",
+          "display": "अरे?",
+          "words": [
+            {
+              "word": "अरे",
+              "offset": "PT10M7.69S",
+              "duration": "PT0.5S",
+              "offsetInTicks": 6076900000.0,
+              "durationInTicks": 5000000.0,
+              "confidence": 0.2561092
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT10M10.45S",
+      "duration": "PT0.38S",
+      "offsetInTicks": 6104500000.0,
+      "durationInTicks": 3800000.0,
+      "nBest": [
+        {
+          "confidence": 0.20567521,
+          "lexical": "अमित",
+          "itn": "अमित",
+          "maskedITN": "अमित",
+          "display": "अमित?",
+          "words": [
+            {
+              "word": "अमित",
+              "offset": "PT10M10.45S",
+              "duration": "PT0.38S",
+              "offsetInTicks": 6104500000.0,
+              "durationInTicks": 3800000.0,
+              "confidence": 0.20567521
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT10M36.64S",
+      "duration": "PT0.38S",
+      "offsetInTicks": 6366400000.0,
+      "durationInTicks": 3800000.0,
+      "nBest": [
+        {
+          "confidence": 0.37216127,
+          "lexical": "गुड्डी",
+          "itn": "गुड्डी",
+          "maskedITN": "गुड्डी",
+          "display": "गुड्डी?",
+          "words": [
+            {
+              "word": "गुड्डी",
+              "offset": "PT10M36.64S",
+              "duration": "PT0.38S",
+              "offsetInTicks": 6366400000.0,
+              "durationInTicks": 3800000.0,
+              "confidence": 0.37216127
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT10M38.64S",
+      "duration": "PT0.63S",
+      "offsetInTicks": 6386400000.0,
+      "durationInTicks": 6300000.0,
+      "nBest": [
+        {
+          "confidence": 0.56516373,
+          "lexical": "हाँ हाँ",
+          "itn": "हाँ हाँ",
+          "maskedITN": "हाँ हाँ।",
+          "display": "हाँ, हाँ।",
+          "words": [
+            {
+              "word": "हाँ",
+              "offset": "PT10M38.64S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 6386400000.0,
+              "durationInTicks": 4000000.0,
+              "confidence": 0.43430263
+            },
+            {
+              "word": "हाँ",
+              "offset": "PT10M39.05S",
+              "duration": "PT0.22S",
+              "offsetInTicks": 6390500000.0,
+              "durationInTicks": 2200000.0,
+              "confidence": 0.79843795
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11M8.39S",
+      "duration": "PT0.42S",
+      "offsetInTicks": 6683900000.0,
+      "durationInTicks": 4200000.0,
+      "nBest": [
+        {
+          "confidence": 0.42979622,
+          "lexical": "हाँ",
+          "itn": "हाँ",
+          "maskedITN": "हाँ।",
+          "display": "हाँ।",
+          "words": [
+            {
+              "word": "हाँ",
+              "offset": "PT11M8.39S",
+              "duration": "PT0.42S",
+              "offsetInTicks": 6683900000.0,
+              "durationInTicks": 4200000.0,
+              "confidence": 0.4599704
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT11M8.93S",
+      "duration": "PT0.36S",
+      "offsetInTicks": 6689300000.0,
+      "durationInTicks": 3600000.0,
+      "nBest": [
+        {
+          "confidence": 0.42979622,
+          "lexical": "तो",
+          "itn": "तो",
+          "maskedITN": "तो",
+          "display": "तो?",
+          "words": [
+            {
+              "word": "तो",
+              "offset": "PT11M8.93S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 6689300000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.39472896
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11M11.26S",
+      "duration": "PT3.17S",
+      "offsetInTicks": 6712600000.0,
+      "durationInTicks": 31700000.0,
+      "nBest": [
+        {
+          "confidence": 0.45004657,
+          "lexical": "मिस्टर होगी पांच लाख नहीं पांच सौ पांच रुपए",
+          "itn": "मिस्टर होगी 5,00,000 नहीं ₹505",
+          "maskedITN": "मिस्टर होगी 5,00,000 नहीं ₹505",
+          "display": "मिस्टर होगी 5,00,000 नहीं ₹505?",
+          "words": [
+            {
+              "word": "मिस्टर",
+              "offset": "PT11M11.26S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 6712600000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.27279958
+            },
+            {
+              "word": "होगी",
+              "offset": "PT11M11.62S",
+              "duration": "PT0.38S",
+              "offsetInTicks": 6716200000.0,
+              "durationInTicks": 3800000.0,
+              "confidence": 0.241503
+            },
+            {
+              "word": "पांच",
+              "offset": "PT11M12.01S",
+              "duration": "PT0.3S",
+              "offsetInTicks": 6720100000.0,
+              "durationInTicks": 3000000.0,
+              "confidence": 0.55938315
+            },
+            {
+              "word": "लाख",
+              "offset": "PT11M12.32S",
+              "duration": "PT0.09S",
+              "offsetInTicks": 6723200000.0,
+              "durationInTicks": 900000.0,
+              "confidence": 0.57478464
+            },
+            {
+              "word": "नहीं",
+              "offset": "PT11M12.88S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 6728800000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.5280832
+            },
+            {
+              "word": "पांच",
+              "offset": "PT11M13.36S",
+              "duration": "PT0.38S",
+              "offsetInTicks": 6733600000.0,
+              "durationInTicks": 3800000.0,
+              "confidence": 0.45226008
+            },
+            {
+              "word": "सौ",
+              "offset": "PT11M13.75S",
+              "duration": "PT0.1S",
+              "offsetInTicks": 6737500000.0,
+              "durationInTicks": 1000000.0,
+              "confidence": 0.47160852
+            },
+            {
+              "word": "पांच",
+              "offset": "PT11M13.86S",
+              "duration": "PT0.3S",
+              "offsetInTicks": 6738600000.0,
+              "durationInTicks": 3000000.0,
+              "confidence": 0.61170936
+            },
+            {
+              "word": "रुपए",
+              "offset": "PT11M14.17S",
+              "duration": "PT0.26S",
+              "offsetInTicks": 6741700000.0,
+              "durationInTicks": 2600000.0,
+              "confidence": 0.5142281
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT11M17.5S",
+      "duration": "PT0.38S",
+      "offsetInTicks": 6775000000.0,
+      "durationInTicks": 3800000.0,
+      "nBest": [
+        {
+          "confidence": 0.5975618,
+          "lexical": "जी जी",
+          "itn": "जी जी",
+          "maskedITN": "जी जी।",
+          "display": "जी जी।",
+          "words": [
+            {
+              "word": "जी",
+              "offset": "PT11M17.5S",
+              "duration": "PT0.23S",
+              "offsetInTicks": 6775000000.0,
+              "durationInTicks": 2300000.0,
+              "confidence": 0.6352382
+            },
+            {
+              "word": "जी",
+              "offset": "PT11M17.74S",
+              "duration": "PT0.14S",
+              "offsetInTicks": 6777400000.0,
+              "durationInTicks": 1400000.0,
+              "confidence": 0.7974789
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11M18.46S",
+      "duration": "PT0.58S",
+      "offsetInTicks": 6784600000.0,
+      "durationInTicks": 5800000.0,
+      "nBest": [
+        {
+          "confidence": 0.5975618,
+          "lexical": "जी सॉरी",
+          "itn": "जी सॉरी",
+          "maskedITN": "जी सॉरी।",
+          "display": "जी सॉरी।",
+          "words": [
+            {
+              "word": "जी",
+              "offset": "PT11M18.46S",
+              "duration": "PT0.18S",
+              "offsetInTicks": 6784600000.0,
+              "durationInTicks": 1800000.0,
+              "confidence": 0.6831409
+            },
+            {
+              "word": "सॉरी",
+              "offset": "PT11M18.65S",
+              "duration": "PT0.39S",
+              "offsetInTicks": 6786500000.0,
+              "durationInTicks": 3900000.0,
+              "confidence": 0.45933697
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11M21.06S",
+      "duration": "PT0.48S",
+      "offsetInTicks": 6810600000.0,
+      "durationInTicks": 4800000.0,
+      "nBest": [
+        {
+          "confidence": 0.28093025,
+          "lexical": "क्रिकेट",
+          "itn": "क्रिकेट",
+          "maskedITN": "क्रिकेट",
+          "display": "क्रिकेट?",
+          "words": [
+            {
+              "word": "क्रिकेट",
+              "offset": "PT11M21.06S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 6810600000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.28093025
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT11M23.78S",
+      "duration": "PT0.38S",
+      "offsetInTicks": 6837800000.0,
+      "durationInTicks": 3800000.0,
+      "nBest": [
+        {
+          "confidence": 0.29918647,
+          "lexical": "दिल्ली",
+          "itn": "दिल्ली",
+          "maskedITN": "दिल्ली।",
+          "display": "दिल्ली।",
+          "words": [
+            {
+              "word": "दिल्ली",
+              "offset": "PT11M23.78S",
+              "duration": "PT0.38S",
+              "offsetInTicks": 6837800000.0,
+              "durationInTicks": 3800000.0,
+              "confidence": 0.29918647
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT12M0.93S",
+      "duration": "PT0.24S",
+      "offsetInTicks": 7209300000.0,
+      "durationInTicks": 2400000.0,
+      "nBest": [
+        {
+          "confidence": 0.64769983,
+          "lexical": "ये",
+          "itn": "ये",
+          "maskedITN": "ये।",
+          "display": "ये।",
+          "words": [
+            {
+              "word": "ये",
+              "offset": "PT12M0.93S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 7209300000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.64769983
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT12M19.83S",
+      "duration": "PT0.42S",
+      "offsetInTicks": 7398300000.0,
+      "durationInTicks": 4200000.0,
+      "nBest": [
+        {
+          "confidence": 0.42647964,
+          "lexical": "ये",
+          "itn": "ये",
+          "maskedITN": "ये।",
+          "display": "ये।",
+          "words": [
+            {
+              "word": "ये",
+              "offset": "PT12M19.83S",
+              "duration": "PT0.42S",
+              "offsetInTicks": 7398300000.0,
+              "durationInTicks": 4200000.0,
+              "confidence": 0.42647964
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT12M21.91S",
+      "duration": "PT1.17S",
+      "offsetInTicks": 7419100000.0,
+      "durationInTicks": 11700000.0,
+      "nBest": [
+        {
+          "confidence": 0.40331602,
+          "lexical": "सर अक्सीडेंट का",
+          "itn": "सर अक्सीडेंट का",
+          "maskedITN": "सर अक्सीडेंट का",
+          "display": "सर अक्सीडेंट का?",
+          "words": [
+            {
+              "word": "सर",
+              "offset": "PT12M21.91S",
+              "duration": "PT0.5S",
+              "offsetInTicks": 7419100000.0,
+              "durationInTicks": 5000000.0,
+              "confidence": 0.29701304
+            },
+            {
+              "word": "अक्सीडेंट",
+              "offset": "PT12M22.42S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 7424200000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.35393476
+            },
+            {
+              "word": "का",
+              "offset": "PT12M22.79S",
+              "duration": "PT0.29S",
+              "offsetInTicks": 7427900000.0,
+              "durationInTicks": 2900000.0,
+              "confidence": 0.6449347
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT12M50.56S",
+      "duration": "PT0.27S",
+      "offsetInTicks": 7705600000.0,
+      "durationInTicks": 2700000.0,
+      "nBest": [
+        {
+          "confidence": 0.55654997,
+          "lexical": "वो",
+          "itn": "वो",
+          "maskedITN": "वो।",
+          "display": "वो।",
+          "words": [
+            {
+              "word": "वो",
+              "offset": "PT12M50.56S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 7705600000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.54010767
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT13M2.86S",
+      "duration": "PT0.31S",
+      "offsetInTicks": 7828600000.0,
+      "durationInTicks": 3100000.0,
+      "nBest": [
+        {
+          "confidence": 0.55654997,
+          "lexical": "तो",
+          "itn": "तो",
+          "maskedITN": "तो",
+          "display": "तो?",
+          "words": [
+            {
+              "word": "तो",
+              "offset": "PT13M2.86S",
+              "duration": "PT0.31S",
+              "offsetInTicks": 7828600000.0,
+              "durationInTicks": 3100000.0,
+              "confidence": 0.570937
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT13M23.26S",
+      "duration": "PT1.41S",
+      "offsetInTicks": 8032600000.0,
+      "durationInTicks": 14100000.0,
+      "nBest": [
+        {
+          "confidence": 0.57478225,
+          "lexical": "पंद्रह दस पंद्रह",
+          "itn": "151015",
+          "maskedITN": "151015।",
+          "display": "151015।",
+          "words": [
+            {
+              "word": "पंद्रह",
+              "offset": "PT13M23.26S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 8032600000.0,
+              "durationInTicks": 4000000.0,
+              "confidence": 0.29967338
+            },
+            {
+              "word": "दस",
+              "offset": "PT13M23.69S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 8036900000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.50596225
+            },
+            {
+              "word": "पंद्रह",
+              "offset": "PT13M23.98S",
+              "duration": "PT0.69S",
+              "offsetInTicks": 8039800000.0,
+              "durationInTicks": 6900000.0,
+              "confidence": 0.7644285
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT13M30.38S",
+      "duration": "PT0.6S",
+      "offsetInTicks": 8103800000.0,
+      "durationInTicks": 6000000.0,
+      "nBest": [
+        {
+          "confidence": 0.47441417,
+          "lexical": "छोटे वाला",
+          "itn": "छोटे वाला",
+          "maskedITN": "छोटे वाला।",
+          "display": "छोटे वाला।",
+          "words": [
+            {
+              "word": "छोटे",
+              "offset": "PT13M30.38S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 8103800000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.33152002
+            },
+            {
+              "word": "वाला",
+              "offset": "PT13M30.67S",
+              "duration": "PT0.31S",
+              "offsetInTicks": 8106700000.0,
+              "durationInTicks": 3100000.0,
+              "confidence": 0.60391194
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT14M38.31S",
+      "duration": "PT0.49S",
+      "offsetInTicks": 8783100000.0,
+      "durationInTicks": 4900000.0,
+      "nBest": [
+        {
+          "confidence": 0.55300105,
+          "lexical": "अरे",
+          "itn": "अरे",
+          "maskedITN": "अरे",
+          "display": "अरे?",
+          "words": [
+            {
+              "word": "अरे",
+              "offset": "PT14M38.31S",
+              "duration": "PT0.49S",
+              "offsetInTicks": 8783100000.0,
+              "durationInTicks": 4900000.0,
+              "confidence": 0.55300105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT17M51.64S",
+      "duration": "PT0.99S",
+      "offsetInTicks": 10716400000.0,
+      "durationInTicks": 9900000.0,
+      "nBest": [
+        {
+          "confidence": 0.7775455,
+          "lexical": "तो आ ही रही है",
+          "itn": "तो आ ही रही है",
+          "maskedITN": "तो आ ही रही है।",
+          "display": "तो आ ही रही है।",
+          "words": [
+            {
+              "word": "तो",
+              "offset": "PT17M51.64S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 10716400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.59902894
+            },
+            {
+              "word": "आ",
+              "offset": "PT17M51.77S",
+              "duration": "PT0.11S",
+              "offsetInTicks": 10717700000.0,
+              "durationInTicks": 1100000.0,
+              "confidence": 0.48653266
+            },
+            {
+              "word": "ही",
+              "offset": "PT17M51.89S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 10718900000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.8827755
+            },
+            {
+              "word": "रही",
+              "offset": "PT17M52.25S",
+              "duration": "PT0.21S",
+              "offsetInTicks": 10722500000.0,
+              "durationInTicks": 2100000.0,
+              "confidence": 0.8456982
+            },
+            {
+              "word": "है",
+              "offset": "PT17M52.47S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 10724700000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.8084415
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT17M57.05S",
+      "duration": "PT0.17S",
+      "offsetInTicks": 10770500000.0,
+      "durationInTicks": 1700000.0,
+      "nBest": [
+        {
+          "confidence": 0.56828815,
+          "lexical": "हाँ",
+          "itn": "हाँ",
+          "maskedITN": "हाँ।",
+          "display": "हाँ।",
+          "words": [
+            {
+              "word": "हाँ",
+              "offset": "PT17M57.05S",
+              "duration": "PT0.17S",
+              "offsetInTicks": 10770500000.0,
+              "durationInTicks": 1700000.0,
+              "confidence": 0.51290697
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT17M57.23S",
+      "duration": "PT0.33S",
+      "offsetInTicks": 10772300000.0,
+      "durationInTicks": 3300000.0,
+      "nBest": [
+        {
+          "confidence": 0.56828815,
+          "lexical": "हाँ",
+          "itn": "हाँ",
+          "maskedITN": "हाँ।",
+          "display": "हाँ।",
+          "words": [
+            {
+              "word": "हाँ",
+              "offset": "PT17M57.23S",
+              "duration": "PT0.33S",
+              "offsetInTicks": 10772300000.0,
+              "durationInTicks": 3300000.0,
+              "confidence": 0.5976075
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT18M11.62S",
+      "duration": "PT0.47S",
+      "offsetInTicks": 10916200000.0,
+      "durationInTicks": 4700000.0,
+      "nBest": [
+        {
+          "confidence": 0.39213574,
+          "lexical": "बताये",
+          "itn": "बताये",
+          "maskedITN": "बताये।",
+          "display": "बताये।",
+          "words": [
+            {
+              "word": "बताये",
+              "offset": "PT18M11.62S",
+              "duration": "PT0.47S",
+              "offsetInTicks": 10916200000.0,
+              "durationInTicks": 4700000.0,
+              "confidence": 0.39213574
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT19M21.86S",
+      "duration": "PT0.48S",
+      "offsetInTicks": 11618600000.0,
+      "durationInTicks": 4800000.0,
+      "nBest": [
+        {
+          "confidence": 0.4487075,
+          "lexical": "मुझे आप",
+          "itn": "मुझे आप",
+          "maskedITN": "मुझे आप।",
+          "display": "मुझे आप।",
+          "words": [
+            {
+              "word": "मुझे",
+              "offset": "PT19M21.86S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 11618600000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.33401936
+            },
+            {
+              "word": "आप",
+              "offset": "PT19M22.15S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 11621500000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.6150053
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT19M24.77S",
+      "duration": "PT1.09S",
+      "offsetInTicks": 11647700000.0,
+      "durationInTicks": 10900000.0,
+      "nBest": [
+        {
+          "confidence": 0.42681336,
+          "lexical": "ऐसे ही करें",
+          "itn": "ऐसे ही करें",
+          "maskedITN": "ऐसे ही करें।",
+          "display": "ऐसे ही करें।",
+          "words": [
+            {
+              "word": "ऐसे",
+              "offset": "PT19M24.77S",
+              "duration": "PT0.5S",
+              "offsetInTicks": 11647700000.0,
+              "durationInTicks": 5000000.0,
+              "confidence": 0.40147796
+            },
+            {
+              "word": "ही",
+              "offset": "PT19M25.28S",
+              "duration": "PT0.1S",
+              "offsetInTicks": 11652800000.0,
+              "durationInTicks": 1000000.0,
+              "confidence": 0.7145197
+            },
+            {
+              "word": "करें",
+              "offset": "PT19M25.39S",
+              "duration": "PT0.47S",
+              "offsetInTicks": 11653900000.0,
+              "durationInTicks": 4700000.0,
+              "confidence": 0.38779953
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT19M34.69S",
+      "duration": "PT0.85S",
+      "offsetInTicks": 11746900000.0,
+      "durationInTicks": 8500000.0,
+      "nBest": [
+        {
+          "confidence": 0.7366281,
+          "lexical": "मुझे लगता है",
+          "itn": "मुझे लगता है",
+          "maskedITN": "मुझे लगता है।",
+          "display": "मुझे लगता है।",
+          "words": [
+            {
+              "word": "मुझे",
+              "offset": "PT19M34.69S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 11746900000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.5754474
+            },
+            {
+              "word": "लगता",
+              "offset": "PT19M35.11S",
+              "duration": "PT0.34S",
+              "offsetInTicks": 11751100000.0,
+              "durationInTicks": 3400000.0,
+              "confidence": 0.90601295
+            },
+            {
+              "word": "है",
+              "offset": "PT19M35.46S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 11754600000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.83008605
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT19M46.48S",
+      "duration": "PT0.42S",
+      "offsetInTicks": 11864800000.0,
+      "durationInTicks": 4200000.0,
+      "nBest": [
+        {
+          "confidence": 0.41373265,
+          "lexical": "पांच",
+          "itn": "पांच",
+          "maskedITN": "पांच।",
+          "display": "पांच।",
+          "words": [
+            {
+              "word": "पांच",
+              "offset": "PT19M46.48S",
+              "duration": "PT0.42S",
+              "offsetInTicks": 11864800000.0,
+              "durationInTicks": 4200000.0,
+              "confidence": 0.41373265
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT19M57.38S",
+      "duration": "PT0.68S",
+      "offsetInTicks": 11973800000.0,
+      "durationInTicks": 6800000.0,
+      "nBest": [
+        {
+          "confidence": 0.33173287,
+          "lexical": "परिवहन",
+          "itn": "परिवहन",
+          "maskedITN": "परिवहन।",
+          "display": "परिवहन।",
+          "words": [
+            {
+              "word": "परिवहन",
+              "offset": "PT19M57.38S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 11973800000.0,
+              "durationInTicks": 6800000.0,
+              "confidence": 0.33173287
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT20M21.9S",
+      "duration": "PT0.3S",
+      "offsetInTicks": 12219000000.0,
+      "durationInTicks": 3000000.0,
+      "nBest": [
+        {
+          "confidence": 0.50346446,
+          "lexical": "जो",
+          "itn": "जो",
+          "maskedITN": "जो",
+          "display": "जो?",
+          "words": [
+            {
+              "word": "जो",
+              "offset": "PT20M21.9S",
+              "duration": "PT0.3S",
+              "offsetInTicks": 12219000000.0,
+              "durationInTicks": 3000000.0,
+              "confidence": 0.50346446
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT20M45.95S",
+      "duration": "PT12.09S",
+      "offsetInTicks": 12459500000.0,
+      "durationInTicks": 120900000.0,
+      "nBest": [
+        {
+          "confidence": 0.59747875,
+          "lexical": "मेरे पास काम पड़ा है फटाफट बोल काम कर रही हूँ दुकान में कौन सी चॉकलेट मुझे बीस रुपए का डेरी मिल्क मानकर चालीस",
+          "itn": "मेरे पास काम पड़ा है फटाफट बोल काम कर रही हूँ दुकान में कौन सी चॉकलेट मुझे ₹20 का डेरी मिल्क मानकर 40",
+          "maskedITN": "मेरे पास काम पड़ा है फटाफट बोल काम कर रही हूँ दुकान में कौन सी चॉकलेट मुझे ₹20 का डेरी मिल्क मानकर 40।",
+          "display": "मेरे पास काम पड़ा है, फटाफट बोल काम कर रही हूँ दुकान में कौन सी चॉकलेट मुझे? ₹20 का डेरी मिल्क मानकर 40।",
+          "words": [
+            {
+              "word": "मेरे",
+              "offset": "PT20M45.95S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 12459500000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.61372465
+            },
+            {
+              "word": "पास",
+              "offset": "PT20M46.31S",
+              "duration": "PT0.31S",
+              "offsetInTicks": 12463100000.0,
+              "durationInTicks": 3100000.0,
+              "confidence": 0.83809954
+            },
+            {
+              "word": "काम",
+              "offset": "PT20M46.63S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 12466300000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.435747
+            },
+            {
+              "word": "पड़ा",
+              "offset": "PT20M46.91S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 12469100000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.7525339
+            },
+            {
+              "word": "है",
+              "offset": "PT20M47.29S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 12472900000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.7776276
+            },
+            {
+              "word": "फटाफट",
+              "offset": "PT20M47.43S",
+              "duration": "PT0.47S",
+              "offsetInTicks": 12474300000.0,
+              "durationInTicks": 4700000.0,
+              "confidence": 0.5971883
+            },
+            {
+              "word": "बोल",
+              "offset": "PT20M47.91S",
+              "duration": "PT0.38S",
+              "offsetInTicks": 12479100000.0,
+              "durationInTicks": 3800000.0,
+              "confidence": 0.80605704
+            },
+            {
+              "word": "काम",
+              "offset": "PT20M48.81S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 12488100000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.5479545
+            },
+            {
+              "word": "कर",
+              "offset": "PT20M49.19S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 12491900000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.8492821
+            },
+            {
+              "word": "रही",
+              "offset": "PT20M49.39S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 12493900000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.76474947
+            },
+            {
+              "word": "हूँ",
+              "offset": "PT20M49.53S",
+              "duration": "PT0.07S",
+              "offsetInTicks": 12495300000.0,
+              "durationInTicks": 700000.0,
+              "confidence": 0.7499004
+            },
+            {
+              "word": "दुकान",
+              "offset": "PT20M49.61S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 12496100000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.7182957
+            },
+            {
+              "word": "में",
+              "offset": "PT20M50.03S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 12500300000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.87281305
+            },
+            {
+              "word": "कौन",
+              "offset": "PT20M50.41S",
+              "duration": "PT0.49S",
+              "offsetInTicks": 12504100000.0,
+              "durationInTicks": 4900000.0,
+              "confidence": 0.61626494
+            },
+            {
+              "word": "सी",
+              "offset": "PT20M50.91S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 12509100000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.83492213
+            },
+            {
+              "word": "चॉकलेट",
+              "offset": "PT20M51.07S",
+              "duration": "PT0.46S",
+              "offsetInTicks": 12510700000.0,
+              "durationInTicks": 4600000.0,
+              "confidence": 0.4994859
+            },
+            {
+              "word": "मुझे",
+              "offset": "PT20M52.59S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 12525900000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.32770526
+            },
+            {
+              "word": "बीस",
+              "offset": "PT20M52.85S",
+              "duration": "PT0.26S",
+              "offsetInTicks": 12528500000.0,
+              "durationInTicks": 2600000.0,
+              "confidence": 0.64795464
+            },
+            {
+              "word": "रुपए",
+              "offset": "PT20M53.12S",
+              "duration": "PT0.34S",
+              "offsetInTicks": 12531200000.0,
+              "durationInTicks": 3400000.0,
+              "confidence": 0.8830819
+            },
+            {
+              "word": "का",
+              "offset": "PT20M53.47S",
+              "duration": "PT0.29S",
+              "offsetInTicks": 12534700000.0,
+              "durationInTicks": 2900000.0,
+              "confidence": 0.8338292
+            },
+            {
+              "word": "डेरी",
+              "offset": "PT20M54.19S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 12541900000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.14313439
+            },
+            {
+              "word": "मिल्क",
+              "offset": "PT20M54.55S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 12545500000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.7997998
+            },
+            {
+              "word": "मानकर",
+              "offset": "PT20M54.88S",
+              "duration": "PT0.62S",
+              "offsetInTicks": 12548800000.0,
+              "durationInTicks": 6200000.0,
+              "confidence": 0.2593634
+            },
+            {
+              "word": "चालीस",
+              "offset": "PT20M56.41S",
+              "duration": "PT1.63S",
+              "offsetInTicks": 12564100000.0,
+              "durationInTicks": 16300000.0,
+              "confidence": 0.4732285
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT20M58.93S",
+      "duration": "PT0.56S",
+      "offsetInTicks": 12589300000.0,
+      "durationInTicks": 5600000.0,
+      "nBest": [
+        {
+          "confidence": 0.58280396,
+          "lexical": "वो तो मैं",
+          "itn": "वो तो मैं",
+          "maskedITN": "वो तो मैं।",
+          "display": "वो तो मैं।",
+          "words": [
+            {
+              "word": "वो",
+              "offset": "PT20M58.93S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 12589300000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.4605427
+            },
+            {
+              "word": "तो",
+              "offset": "PT20M59.19S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 12591900000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.69983244
+            },
+            {
+              "word": "मैं",
+              "offset": "PT20M59.35S",
+              "duration": "PT0.14S",
+              "offsetInTicks": 12593500000.0,
+              "durationInTicks": 1400000.0,
+              "confidence": 0.66989315
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT21M10.23S",
+      "duration": "PT0.95S",
+      "offsetInTicks": 12702300000.0,
+      "durationInTicks": 9500000.0,
+      "nBest": [
+        {
+          "confidence": 0.5312029,
+          "lexical": "क्या करूँ बोल",
+          "itn": "क्या करूँ बोल",
+          "maskedITN": "क्या करूँ बोल",
+          "display": "क्या करूँ बोल?",
+          "words": [
+            {
+              "word": "क्या",
+              "offset": "PT21M10.23S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 12702300000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.5488261
+            },
+            {
+              "word": "करूँ",
+              "offset": "PT21M10.49S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 12704900000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.59818745
+            },
+            {
+              "word": "बोल",
+              "offset": "PT21M10.77S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 12707700000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.4756369
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT21M13.33S",
+      "duration": "PT3.04S",
+      "offsetInTicks": 12733300000.0,
+      "durationInTicks": 30400000.0,
+      "nBest": [
+        {
+          "confidence": 0.5177313,
+          "lexical": "रौशन कुमार भी मुख्यालय कुमार",
+          "itn": "रौशन कुमार भी मुख्यालय कुमार",
+          "maskedITN": "रौशन कुमार भी मुख्यालय कुमार।",
+          "display": "रौशन कुमार भी मुख्यालय कुमार।",
+          "words": [
+            {
+              "word": "रौशन",
+              "offset": "PT21M13.33S",
+              "duration": "PT0.85S",
+              "offsetInTicks": 12733300000.0,
+              "durationInTicks": 8500000.0,
+              "confidence": 0.11065012
+            },
+            {
+              "word": "कुमार",
+              "offset": "PT21M14.19S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 12741900000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.76197433
+            },
+            {
+              "word": "भी",
+              "offset": "PT21M14.61S",
+              "duration": "PT0.18S",
+              "offsetInTicks": 12746100000.0,
+              "durationInTicks": 1800000.0,
+              "confidence": 0.74653023
+            },
+            {
+              "word": "मुख्यालय",
+              "offset": "PT21M14.82S",
+              "duration": "PT1.12S",
+              "offsetInTicks": 12748200000.0,
+              "durationInTicks": 11200000.0,
+              "confidence": 0.68987286
+            },
+            {
+              "word": "कुमार",
+              "offset": "PT21M15.95S",
+              "duration": "PT0.42S",
+              "offsetInTicks": 12759500000.0,
+              "durationInTicks": 4200000.0,
+              "confidence": 0.53986156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT21M20.45S",
+      "duration": "PT1.15S",
+      "offsetInTicks": 12804500000.0,
+      "durationInTicks": 11500000.0,
+      "nBest": [
+        {
+          "confidence": 0.6735218,
+          "lexical": "ये तो आएगा ही",
+          "itn": "ये तो आएगा ही",
+          "maskedITN": "ये तो आएगा ही।",
+          "display": "ये तो आएगा ही।",
+          "words": [
+            {
+              "word": "ये",
+              "offset": "PT21M20.45S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 12804500000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.6451632
+            },
+            {
+              "word": "तो",
+              "offset": "PT21M20.74S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 12807400000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.8491634
+            },
+            {
+              "word": "आएगा",
+              "offset": "PT21M20.9S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 12809000000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.6085434
+            },
+            {
+              "word": "ही",
+              "offset": "PT21M21.23S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 12812300000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.67763805
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT21M36.77S",
+      "duration": "PT1.25S",
+      "offsetInTicks": 12967700000.0,
+      "durationInTicks": 12500000.0,
+      "nBest": [
+        {
+          "confidence": 0.49434602,
+          "lexical": "कितने डेट करना चाहिए",
+          "itn": "कितने डेट करना चाहिए",
+          "maskedITN": "कितने डेट करना चाहिए",
+          "display": "कितने डेट करना चाहिए?",
+          "words": [
+            {
+              "word": "कितने",
+              "offset": "PT21M36.77S",
+              "duration": "PT0.33S",
+              "offsetInTicks": 12967700000.0,
+              "durationInTicks": 3300000.0,
+              "confidence": 0.3059525
+            },
+            {
+              "word": "डेट",
+              "offset": "PT21M37.11S",
+              "duration": "PT0.22S",
+              "offsetInTicks": 12971100000.0,
+              "durationInTicks": 2200000.0,
+              "confidence": 0.42538154
+            },
+            {
+              "word": "करना",
+              "offset": "PT21M37.34S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 12973400000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.3123927
+            },
+            {
+              "word": "चाहिए",
+              "offset": "PT21M37.59S",
+              "duration": "PT0.43S",
+              "offsetInTicks": 12975900000.0,
+              "durationInTicks": 4300000.0,
+              "confidence": 0.77935493
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT21M44.79S",
+      "duration": "PT1.03S",
+      "offsetInTicks": 13047900000.0,
+      "durationInTicks": 10300000.0,
+      "nBest": [
+        {
+          "confidence": 0.36945406,
+          "lexical": "रेल गाडी",
+          "itn": "रेल गाडी",
+          "maskedITN": "रेल गाडी।",
+          "display": "रेल गाडी।",
+          "words": [
+            {
+              "word": "रेल",
+              "offset": "PT21M44.79S",
+              "duration": "PT0.58S",
+              "offsetInTicks": 13047900000.0,
+              "durationInTicks": 5800000.0,
+              "confidence": 0.13388896
+            },
+            {
+              "word": "गाडी",
+              "offset": "PT21M45.38S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 13053800000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.6783061
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT21M47.38S",
+      "duration": "PT1.35S",
+      "offsetInTicks": 13073800000.0,
+      "durationInTicks": 13500000.0,
+      "nBest": [
+        {
+          "confidence": 0.64197844,
+          "lexical": "नहीं आ रही बीच में आ गयी",
+          "itn": "नहीं आ रही बीच में आ गयी",
+          "maskedITN": "नहीं आ रही बीच में आ गयी।",
+          "display": "नहीं आ रही, बीच में आ गयी।",
+          "words": [
+            {
+              "word": "नहीं",
+              "offset": "PT21M47.38S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 13073800000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.45249382
+            },
+            {
+              "word": "आ",
+              "offset": "PT21M47.63S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 13076300000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.8383852
+            },
+            {
+              "word": "रही",
+              "offset": "PT21M47.72S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 13077200000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.6170346
+            },
+            {
+              "word": "बीच",
+              "offset": "PT21M47.88S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 13078800000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.52727425
+            },
+            {
+              "word": "में",
+              "offset": "PT21M48.16S",
+              "duration": "PT0.1S",
+              "offsetInTicks": 13081600000.0,
+              "durationInTicks": 1000000.0,
+              "confidence": 0.60793966
+            },
+            {
+              "word": "आ",
+              "offset": "PT21M48.27S",
+              "duration": "PT0.14S",
+              "offsetInTicks": 13082700000.0,
+              "durationInTicks": 1400000.0,
+              "confidence": 0.8318721
+            },
+            {
+              "word": "गयी",
+              "offset": "PT21M48.42S",
+              "duration": "PT0.31S",
+              "offsetInTicks": 13084200000.0,
+              "durationInTicks": 3100000.0,
+              "confidence": 0.77030027
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT21M50.3S",
+      "duration": "PT0.89S",
+      "offsetInTicks": 13103000000.0,
+      "durationInTicks": 8900000.0,
+      "nBest": [
+        {
+          "confidence": 0.48667163,
+          "lexical": "जरूरत नहीं है भाई",
+          "itn": "जरूरत नहीं है भाई",
+          "maskedITN": "जरूरत नहीं है भाई।",
+          "display": "जरूरत नहीं है, भाई।",
+          "words": [
+            {
+              "word": "जरूरत",
+              "offset": "PT21M50.3S",
+              "duration": "PT0.39S",
+              "offsetInTicks": 13103000000.0,
+              "durationInTicks": 3900000.0,
+              "confidence": 0.21409076
+            },
+            {
+              "word": "नहीं",
+              "offset": "PT21M50.7S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 13107000000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.8309528
+            },
+            {
+              "word": "है",
+              "offset": "PT21M50.91S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 13109100000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.6109879
+            },
+            {
+              "word": "भाई",
+              "offset": "PT21M51S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 13110000000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.61439556
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT22M12.18S",
+      "duration": "PT0.93S",
+      "offsetInTicks": 13321800000.0,
+      "durationInTicks": 9300000.0,
+      "nBest": [
+        {
+          "confidence": 0.115805686,
+          "lexical": "सॉरी",
+          "itn": "सॉरी",
+          "maskedITN": "सॉरी।",
+          "display": "सॉरी।",
+          "words": [
+            {
+              "word": "सॉरी",
+              "offset": "PT22M12.18S",
+              "duration": "PT0.93S",
+              "offsetInTicks": 13321800000.0,
+              "durationInTicks": 9300000.0,
+              "confidence": 0.115805686
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT22M17.81S",
+      "duration": "PT0.56S",
+      "offsetInTicks": 13378100000.0,
+      "durationInTicks": 5600000.0,
+      "nBest": [
+        {
+          "confidence": 0.46606424,
+          "lexical": "पैंतीस",
+          "itn": "35",
+          "maskedITN": "35।",
+          "display": "35।",
+          "words": [
+            {
+              "word": "पैंतीस",
+              "offset": "PT22M17.81S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 13378100000.0,
+              "durationInTicks": 5600000.0,
+              "confidence": 0.4660642
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT22M53.52S",
+      "duration": "PT0.39S",
+      "offsetInTicks": 13735200000.0,
+      "durationInTicks": 3900000.0,
+      "nBest": [
+        {
+          "confidence": 0.5241886,
+          "lexical": "नहीं",
+          "itn": "नहीं",
+          "maskedITN": "नहीं।",
+          "display": "नहीं।",
+          "words": [
+            {
+              "word": "नहीं",
+              "offset": "PT22M53.52S",
+              "duration": "PT0.39S",
+              "offsetInTicks": 13735200000.0,
+              "durationInTicks": 3900000.0,
+              "confidence": 0.5241886
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT22M57.99S",
+      "duration": "PT0.72S",
+      "offsetInTicks": 13779900000.0,
+      "durationInTicks": 7200000.0,
+      "nBest": [
+        {
+          "confidence": 0.47470635,
+          "lexical": "कितना अच्छा है",
+          "itn": "कितना अच्छा है",
+          "maskedITN": "कितना अच्छा है।",
+          "display": "कितना अच्छा है।",
+          "words": [
+            {
+              "word": "कितना",
+              "offset": "PT22M57.99S",
+              "duration": "PT0.33S",
+              "offsetInTicks": 13779900000.0,
+              "durationInTicks": 3300000.0,
+              "confidence": 0.38760152
+            },
+            {
+              "word": "अच्छा",
+              "offset": "PT22M58.33S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 13783300000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.5150487
+            },
+            {
+              "word": "है",
+              "offset": "PT22M58.66S",
+              "duration": "PT0.05S",
+              "offsetInTicks": 13786600000.0,
+              "durationInTicks": 500000.0,
+              "confidence": 0.746418
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT23M12.2S",
+      "duration": "PT1.2S",
+      "offsetInTicks": 13922000000.0,
+      "durationInTicks": 12000000.0,
+      "nBest": [
+        {
+          "confidence": 0.38772592,
+          "lexical": "इनका इस्राइल आ गया",
+          "itn": "इनका इस्राइल आ गया",
+          "maskedITN": "इनका इस्राइल आ गया।",
+          "display": "इनका इस्राइल आ गया।",
+          "words": [
+            {
+              "word": "इनका",
+              "offset": "PT23M12.2S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 13922000000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.2910991
+            },
+            {
+              "word": "इस्राइल",
+              "offset": "PT23M12.56S",
+              "duration": "PT0.47S",
+              "offsetInTicks": 13925600000.0,
+              "durationInTicks": 4700000.0,
+              "confidence": 0.177997
+            },
+            {
+              "word": "आ",
+              "offset": "PT23M13.04S",
+              "duration": "PT0.07S",
+              "offsetInTicks": 13930400000.0,
+              "durationInTicks": 700000.0,
+              "confidence": 0.8659956
+            },
+            {
+              "word": "गया",
+              "offset": "PT23M13.12S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 13931200000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.7228776
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT23M20.71S",
+      "duration": "PT0.5S",
+      "offsetInTicks": 14007100000.0,
+      "durationInTicks": 5000000.0,
+      "nBest": [
+        {
+          "confidence": 0.51946414,
+          "lexical": "कॉल टू",
+          "itn": "कॉल टू",
+          "maskedITN": "कॉल टू।",
+          "display": "कॉल टू।",
+          "words": [
+            {
+              "word": "कॉल",
+              "offset": "PT23M20.71S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 14007100000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.5120905
+            },
+            {
+              "word": "टू",
+              "offset": "PT23M21S",
+              "duration": "PT0.21S",
+              "offsetInTicks": 14010000000.0,
+              "durationInTicks": 2100000.0,
+              "confidence": 0.52918386
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT23M29.34S",
+      "duration": "PT0.99S",
+      "offsetInTicks": 14093400000.0,
+      "durationInTicks": 9900000.0,
+      "nBest": [
+        {
+          "confidence": 0.50644106,
+          "lexical": "वेलकम टु यू",
+          "itn": "वेलकम टु यू",
+          "maskedITN": "वेलकम टु यू।",
+          "display": "वेलकम टु यू।",
+          "words": [
+            {
+              "word": "वेलकम",
+              "offset": "PT23M29.34S",
+              "duration": "PT0.51S",
+              "offsetInTicks": 14093400000.0,
+              "durationInTicks": 5100000.0,
+              "confidence": 0.5239777
+            },
+            {
+              "word": "टु",
+              "offset": "PT23M29.86S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 14098600000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.67495465
+            },
+            {
+              "word": "यू",
+              "offset": "PT23M30.02S",
+              "duration": "PT0.31S",
+              "offsetInTicks": 14100200000.0,
+              "durationInTicks": 3100000.0,
+              "confidence": 0.39368713
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT23M38.51S",
+      "duration": "PT3.03S",
+      "offsetInTicks": 14185100000.0,
+      "durationInTicks": 30300000.0,
+      "nBest": [
+        {
+          "confidence": 0.5741237,
+          "lexical": "गाड़ी खाली कर के आगे गाड़ी",
+          "itn": "गाड़ी खाली कर के आगे गाड़ी",
+          "maskedITN": "गाड़ी खाली कर के आगे गाड़ी।",
+          "display": "गाड़ी खाली कर के आगे गाड़ी।",
+          "words": [
+            {
+              "word": "गाड़ी",
+              "offset": "PT23M38.51S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 14185100000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.39788043
+            },
+            {
+              "word": "खाली",
+              "offset": "PT23M38.88S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 14188800000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.33781022
+            },
+            {
+              "word": "कर",
+              "offset": "PT23M39.21S",
+              "duration": "PT0.17S",
+              "offsetInTicks": 14192100000.0,
+              "durationInTicks": 1700000.0,
+              "confidence": 0.77733254
+            },
+            {
+              "word": "के",
+              "offset": "PT23M39.39S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 14193900000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.79661214
+            },
+            {
+              "word": "आगे",
+              "offset": "PT23M39.55S",
+              "duration": "PT0.38S",
+              "offsetInTicks": 14195500000.0,
+              "durationInTicks": 3800000.0,
+              "confidence": 0.717243
+            },
+            {
+              "word": "गाड़ी",
+              "offset": "PT23M41.13S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 14211300000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.61031705
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT23M48.22S",
+      "duration": "PT0.39S",
+      "offsetInTicks": 14282200000.0,
+      "durationInTicks": 3900000.0,
+      "nBest": [
+        {
+          "confidence": 0.36661446,
+          "lexical": "सोनिया",
+          "itn": "सोनिया",
+          "maskedITN": "सोनिया",
+          "display": "सोनिया?",
+          "words": [
+            {
+              "word": "सोनिया",
+              "offset": "PT23M48.22S",
+              "duration": "PT0.39S",
+              "offsetInTicks": 14282200000.0,
+              "durationInTicks": 3900000.0,
+              "confidence": 0.36661446
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT23M58.12S",
+      "duration": "PT1.1S",
+      "offsetInTicks": 14381200000.0,
+      "durationInTicks": 11000000.0,
+      "nBest": [
+        {
+          "confidence": 0.5420587,
+          "lexical": "चक्कर मार लिया कर",
+          "itn": "चक्कर मार लिया कर",
+          "maskedITN": "चक्कर मार लिया कर।",
+          "display": "चक्कर मार लिया कर।",
+          "words": [
+            {
+              "word": "चक्कर",
+              "offset": "PT23M58.12S",
+              "duration": "PT0.3S",
+              "offsetInTicks": 14381200000.0,
+              "durationInTicks": 3000000.0,
+              "confidence": 0.33192652
+            },
+            {
+              "word": "मार",
+              "offset": "PT23M58.43S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 14384300000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.5768349
+            },
+            {
+              "word": "लिया",
+              "offset": "PT23M58.71S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 14387100000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.6861995
+            },
+            {
+              "word": "कर",
+              "offset": "PT23M58.97S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 14389700000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.6110089
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT24M3.17S",
+      "duration": "PT0.77S",
+      "offsetInTicks": 14431700000.0,
+      "durationInTicks": 7700000.0,
+      "nBest": [
+        {
+          "confidence": 0.38451347,
+          "lexical": "सालाना",
+          "itn": "सालाना",
+          "maskedITN": "सालाना।",
+          "display": "सालाना।",
+          "words": [
+            {
+              "word": "सालाना",
+              "offset": "PT24M3.17S",
+              "duration": "PT0.77S",
+              "offsetInTicks": 14431700000.0,
+              "durationInTicks": 7700000.0,
+              "confidence": 0.21827915
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT24M4.81S",
+      "duration": "PT0.65S",
+      "offsetInTicks": 14448100000.0,
+      "durationInTicks": 6500000.0,
+      "nBest": [
+        {
+          "confidence": 0.38451347,
+          "lexical": "मज़ा आया ना",
+          "itn": "मज़ा आया ना",
+          "maskedITN": "मज़ा आया ना",
+          "display": "मज़ा आया ना?",
+          "words": [
+            {
+              "word": "मज़ा",
+              "offset": "PT24M4.81S",
+              "duration": "PT0.3S",
+              "offsetInTicks": 14448100000.0,
+              "durationInTicks": 3000000.0,
+              "confidence": 0.31578523
+            },
+            {
+              "word": "आया",
+              "offset": "PT24M5.12S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 14451200000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.7666702
+            },
+            {
+              "word": "ना",
+              "offset": "PT24M5.26S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 14452600000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.84864
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT24M8.49S",
+      "duration": "PT1.06S",
+      "offsetInTicks": 14484900000.0,
+      "durationInTicks": 10600000.0,
+      "nBest": [
+        {
+          "confidence": 0.44059217,
+          "lexical": "मैं उनका मैसेज आया की",
+          "itn": "मैं उनका मैसेज आया की",
+          "maskedITN": "मैं उनका मैसेज आया की",
+          "display": "मैं उनका मैसेज आया की",
+          "words": [
+            {
+              "word": "मैं",
+              "offset": "PT24M8.49S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 14484900000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.2993691
+            },
+            {
+              "word": "उनका",
+              "offset": "PT24M8.77S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 14487700000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.25480223
+            },
+            {
+              "word": "मैसेज",
+              "offset": "PT24M9.05S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 14490500000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.3768155
+            },
+            {
+              "word": "आया",
+              "offset": "PT24M9.31S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 14493100000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.8864841
+            },
+            {
+              "word": "की",
+              "offset": "PT24M9.47S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 14494700000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.8495132
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT24M11.91S",
+      "duration": "PT5.46S",
+      "offsetInTicks": 14519100000.0,
+      "durationInTicks": 54600000.0,
+      "nBest": [
+        {
+          "confidence": 0.5410919,
+          "lexical": "कलाई है सर यार ये बता दिया है यहाँ पे मैं कॉल तो आया नहीं कल शाम को",
+          "itn": "कलाई है सर यार ये बता दिया है यहाँ पे मैं कॉल तो आया नहीं कल शाम को",
+          "maskedITN": "कलाई है सर यार ये बता दिया है यहाँ पे मैं कॉल तो आया नहीं कल शाम को।",
+          "display": "कलाई है सर यार ये बता दिया है यहाँ पे मैं कॉल तो आया नहीं कल शाम को।",
+          "words": [
+            {
+              "word": "कलाई",
+              "offset": "PT24M11.91S",
+              "duration": "PT0.33S",
+              "offsetInTicks": 14519100000.0,
+              "durationInTicks": 3300000.0,
+              "confidence": 0.32317054
+            },
+            {
+              "word": "है",
+              "offset": "PT24M12.25S",
+              "duration": "PT0.07S",
+              "offsetInTicks": 14522500000.0,
+              "durationInTicks": 700000.0,
+              "confidence": 0.7902234
+            },
+            {
+              "word": "सर",
+              "offset": "PT24M12.33S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 14523300000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.73585135
+            },
+            {
+              "word": "यार",
+              "offset": "PT24M12.61S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 14526100000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.23567599
+            },
+            {
+              "word": "ये",
+              "offset": "PT24M12.97S",
+              "duration": "PT0.23S",
+              "offsetInTicks": 14529700000.0,
+              "durationInTicks": 2300000.0,
+              "confidence": 0.55062604
+            },
+            {
+              "word": "बता",
+              "offset": "PT24M13.21S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 14532100000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.6109534
+            },
+            {
+              "word": "दिया",
+              "offset": "PT24M13.49S",
+              "duration": "PT0.29S",
+              "offsetInTicks": 14534900000.0,
+              "durationInTicks": 2900000.0,
+              "confidence": 0.5056258
+            },
+            {
+              "word": "है",
+              "offset": "PT24M13.79S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 14537900000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.6193411
+            },
+            {
+              "word": "यहाँ",
+              "offset": "PT24M13.88S",
+              "duration": "PT0.11S",
+              "offsetInTicks": 14538800000.0,
+              "durationInTicks": 1100000.0,
+              "confidence": 0.5564136
+            },
+            {
+              "word": "पे",
+              "offset": "PT24M14S",
+              "duration": "PT0.1S",
+              "offsetInTicks": 14540000000.0,
+              "durationInTicks": 1000000.0,
+              "confidence": 0.67048115
+            },
+            {
+              "word": "मैं",
+              "offset": "PT24M14.11S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 14541100000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.60101867
+            },
+            {
+              "word": "कॉल",
+              "offset": "PT24M15.24S",
+              "duration": "PT0.26S",
+              "offsetInTicks": 14552400000.0,
+              "durationInTicks": 2600000.0,
+              "confidence": 0.39706346
+            },
+            {
+              "word": "तो",
+              "offset": "PT24M15.51S",
+              "duration": "PT0.09S",
+              "offsetInTicks": 14555100000.0,
+              "durationInTicks": 900000.0,
+              "confidence": 0.6944692
+            },
+            {
+              "word": "आया",
+              "offset": "PT24M15.61S",
+              "duration": "PT0.1S",
+              "offsetInTicks": 14556100000.0,
+              "durationInTicks": 1000000.0,
+              "confidence": 0.81632984
+            },
+            {
+              "word": "नहीं",
+              "offset": "PT24M15.72S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 14557200000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.7533537
+            },
+            {
+              "word": "कल",
+              "offset": "PT24M16.87S",
+              "duration": "PT0.22S",
+              "offsetInTicks": 14568700000.0,
+              "durationInTicks": 2200000.0,
+              "confidence": 0.2829116
+            },
+            {
+              "word": "शाम",
+              "offset": "PT24M17.1S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 14571000000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.7965766
+            },
+            {
+              "word": "को",
+              "offset": "PT24M17.27S",
+              "duration": "PT0.1S",
+              "offsetInTicks": 14572700000.0,
+              "durationInTicks": 1000000.0,
+              "confidence": 0.8496071
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT24M22.98S",
+      "duration": "PT2.77S",
+      "offsetInTicks": 14629800000.0,
+      "durationInTicks": 27700000.0,
+      "nBest": [
+        {
+          "confidence": 0.53881997,
+          "lexical": "अच्छा आपने घर में दिन का आ गया होगा",
+          "itn": "अच्छा आपने घर में दिन का आ गया होगा",
+          "maskedITN": "अच्छा आपने घर में दिन का आ गया होगा।",
+          "display": "अच्छा आपने घर में दिन का आ गया होगा।",
+          "words": [
+            {
+              "word": "अच्छा",
+              "offset": "PT24M22.98S",
+              "duration": "PT0.55S",
+              "offsetInTicks": 14629800000.0,
+              "durationInTicks": 5500000.0,
+              "confidence": 0.45977688
+            },
+            {
+              "word": "आपने",
+              "offset": "PT24M24.04S",
+              "duration": "PT0.47S",
+              "offsetInTicks": 14640400000.0,
+              "durationInTicks": 4700000.0,
+              "confidence": 0.4293413
+            },
+            {
+              "word": "घर",
+              "offset": "PT24M24.52S",
+              "duration": "PT0.21S",
+              "offsetInTicks": 14645200000.0,
+              "durationInTicks": 2100000.0,
+              "confidence": 0.6705765
+            },
+            {
+              "word": "में",
+              "offset": "PT24M24.74S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 14647400000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.5267428
+            },
+            {
+              "word": "दिन",
+              "offset": "PT24M24.88S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 14648800000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.5045389
+            },
+            {
+              "word": "का",
+              "offset": "PT24M25.08S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 14650800000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.72137284
+            },
+            {
+              "word": "आ",
+              "offset": "PT24M25.22S",
+              "duration": "PT0.09S",
+              "offsetInTicks": 14652200000.0,
+              "durationInTicks": 900000.0,
+              "confidence": 0.63613194
+            },
+            {
+              "word": "गया",
+              "offset": "PT24M25.32S",
+              "duration": "PT0.18S",
+              "offsetInTicks": 14653200000.0,
+              "durationInTicks": 1800000.0,
+              "confidence": 0.83184934
+            },
+            {
+              "word": "होगा",
+              "offset": "PT24M25.51S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 14655100000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.480461
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT24M47.47S",
+      "duration": "PT1.13S",
+      "offsetInTicks": 14874700000.0,
+      "durationInTicks": 11300000.0,
+      "nBest": [
+        {
+          "confidence": 0.507379,
+          "lexical": "ये डरा जी आपकी",
+          "itn": "ये डरा जी आपकी",
+          "maskedITN": "ये डरा जी आपकी",
+          "display": "ये डरा जी आपकी?",
+          "words": [
+            {
+              "word": "ये",
+              "offset": "PT24M47.47S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 14874700000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.5774582
+            },
+            {
+              "word": "डरा",
+              "offset": "PT24M47.73S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 14877300000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.27011758
+            },
+            {
+              "word": "जी",
+              "offset": "PT24M48.09S",
+              "duration": "PT0.21S",
+              "offsetInTicks": 14880900000.0,
+              "durationInTicks": 2100000.0,
+              "confidence": 0.6782395
+            },
+            {
+              "word": "आपकी",
+              "offset": "PT24M48.31S",
+              "duration": "PT0.29S",
+              "offsetInTicks": 14883100000.0,
+              "durationInTicks": 2900000.0,
+              "confidence": 0.6060596
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT24M50.54S",
+      "duration": "PT1.8S",
+      "offsetInTicks": 14905400000.0,
+      "durationInTicks": 18000000.0,
+      "nBest": [
+        {
+          "confidence": 0.5456989,
+          "lexical": "नहीं ये क्या है इसका रिकॉर्ड नहीं है",
+          "itn": "नहीं ये क्या है इसका रिकॉर्ड नहीं है",
+          "maskedITN": "नहीं ये क्या है इसका रिकॉर्ड नहीं है।",
+          "display": "नहीं, ये क्या है इसका रिकॉर्ड नहीं है।",
+          "words": [
+            {
+              "word": "नहीं",
+              "offset": "PT24M50.54S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 14905400000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.46679682
+            },
+            {
+              "word": "ये",
+              "offset": "PT24M50.92S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 14909200000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.5851166
+            },
+            {
+              "word": "क्या",
+              "offset": "PT24M51.06S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 14910600000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.90127724
+            },
+            {
+              "word": "है",
+              "offset": "PT24M51.26S",
+              "duration": "PT0.09S",
+              "offsetInTicks": 14912600000.0,
+              "durationInTicks": 900000.0,
+              "confidence": 0.6479133
+            },
+            {
+              "word": "इसका",
+              "offset": "PT24M51.36S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 14913600000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.39150345
+            },
+            {
+              "word": "रिकॉर्ड",
+              "offset": "PT24M51.65S",
+              "duration": "PT0.3S",
+              "offsetInTicks": 14916500000.0,
+              "durationInTicks": 3000000.0,
+              "confidence": 0.23438442
+            },
+            {
+              "word": "नहीं",
+              "offset": "PT24M51.96S",
+              "duration": "PT0.22S",
+              "offsetInTicks": 14919600000.0,
+              "durationInTicks": 2200000.0,
+              "confidence": 0.7370205
+            },
+            {
+              "word": "है",
+              "offset": "PT24M52.19S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 14921900000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.7978698
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT24M57.83S",
+      "duration": "PT0.63S",
+      "offsetInTicks": 14978300000.0,
+      "durationInTicks": 6300000.0,
+      "nBest": [
+        {
+          "confidence": 0.5291855,
+          "lexical": "नब्बे नब्बे",
+          "itn": "9090",
+          "maskedITN": "9090।",
+          "display": "9090।",
+          "words": [
+            {
+              "word": "नब्बे",
+              "offset": "PT24M57.83S",
+              "duration": "PT0.3S",
+              "offsetInTicks": 14978300000.0,
+              "durationInTicks": 3000000.0,
+              "confidence": 0.28154975
+            },
+            {
+              "word": "नब्बे",
+              "offset": "PT24M58.14S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 14981400000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.761813
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT25M1.73S",
+      "duration": "PT1.68S",
+      "offsetInTicks": 15017300000.0,
+      "durationInTicks": 16800000.0,
+      "nBest": [
+        {
+          "confidence": 0.6445063,
+          "lexical": "पानी भी नहीं है इनके पास और आप",
+          "itn": "पानी भी नहीं है इनके पास और आप",
+          "maskedITN": "पानी भी नहीं है इनके पास और आप",
+          "display": "पानी भी नहीं है इनके पास और आप?",
+          "words": [
+            {
+              "word": "पानी",
+              "offset": "PT25M1.73S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 15017300000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.29881158
+            },
+            {
+              "word": "भी",
+              "offset": "PT25M2.11S",
+              "duration": "PT0.11S",
+              "offsetInTicks": 15021100000.0,
+              "durationInTicks": 1100000.0,
+              "confidence": 0.74523985
+            },
+            {
+              "word": "नहीं",
+              "offset": "PT25M2.23S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 15022300000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.6983218
+            },
+            {
+              "word": "है",
+              "offset": "PT25M2.4S",
+              "duration": "PT0.09S",
+              "offsetInTicks": 15024000000.0,
+              "durationInTicks": 900000.0,
+              "confidence": 0.56037724
+            },
+            {
+              "word": "इनके",
+              "offset": "PT25M2.5S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 15025000000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.67091835
+            },
+            {
+              "word": "पास",
+              "offset": "PT25M2.76S",
+              "duration": "PT0.26S",
+              "offsetInTicks": 15027600000.0,
+              "durationInTicks": 2600000.0,
+              "confidence": 0.8035577
+            },
+            {
+              "word": "और",
+              "offset": "PT25M3.03S",
+              "duration": "PT0.14S",
+              "offsetInTicks": 15030300000.0,
+              "durationInTicks": 1400000.0,
+              "confidence": 0.8161881
+            },
+            {
+              "word": "आप",
+              "offset": "PT25M3.18S",
+              "duration": "PT0.23S",
+              "offsetInTicks": 15031800000.0,
+              "durationInTicks": 2300000.0,
+              "confidence": 0.82357657
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT25M4.98S",
+      "duration": "PT0.89S",
+      "offsetInTicks": 15049800000.0,
+      "durationInTicks": 8900000.0,
+      "nBest": [
+        {
+          "confidence": 0.42550102,
+          "lexical": "हो गया",
+          "itn": "हो गया",
+          "maskedITN": "हो गया।",
+          "display": "हो गया।",
+          "words": [
+            {
+              "word": "हो",
+              "offset": "PT25M4.98S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 15049800000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.27657747
+            },
+            {
+              "word": "गया",
+              "offset": "PT25M5.24S",
+              "duration": "PT0.63S",
+              "offsetInTicks": 15052400000.0,
+              "durationInTicks": 6300000.0,
+              "confidence": 0.48600125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT25M9.79S",
+      "duration": "PT0.64S",
+      "offsetInTicks": 15097900000.0,
+      "durationInTicks": 6400000.0,
+      "nBest": [
+        {
+          "confidence": 0.6294622,
+          "lexical": "कौन सा गाना है",
+          "itn": "कौन सा गाना है",
+          "maskedITN": "कौन सा गाना है",
+          "display": "कौन सा गाना है?",
+          "words": [
+            {
+              "word": "कौन",
+              "offset": "PT25M9.79S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 15097900000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.50449383
+            },
+            {
+              "word": "सा",
+              "offset": "PT25M10S",
+              "duration": "PT0.09S",
+              "offsetInTicks": 15100000000.0,
+              "durationInTicks": 900000.0,
+              "confidence": 0.71964246
+            },
+            {
+              "word": "गाना",
+              "offset": "PT25M10.1S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 15101000000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.66293293
+            },
+            {
+              "word": "है",
+              "offset": "PT25M10.31S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 15103100000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.7078966
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT25M12.2S",
+      "duration": "PT2.72S",
+      "offsetInTicks": 15122000000.0,
+      "durationInTicks": 27200000.0,
+      "nBest": [
+        {
+          "confidence": 0.59775645,
+          "lexical": "उसने चार दो घंटा कर देना कॉल भी आ जाएगी",
+          "itn": "उसने चार दो घंटा कर देना कॉल भी आ जाएगी",
+          "maskedITN": "उसने चार दो घंटा कर देना कॉल भी आ जाएगी।",
+          "display": "उसने चार दो घंटा कर देना कॉल भी आ जाएगी।",
+          "words": [
+            {
+              "word": "उसने",
+              "offset": "PT25M12.2S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 15122000000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.44136626
+            },
+            {
+              "word": "चार",
+              "offset": "PT25M12.75S",
+              "duration": "PT0.43S",
+              "offsetInTicks": 15127500000.0,
+              "durationInTicks": 4300000.0,
+              "confidence": 0.55291045
+            },
+            {
+              "word": "दो",
+              "offset": "PT25M13.19S",
+              "duration": "PT0.11S",
+              "offsetInTicks": 15131900000.0,
+              "durationInTicks": 1100000.0,
+              "confidence": 0.546709
+            },
+            {
+              "word": "घंटा",
+              "offset": "PT25M13.31S",
+              "duration": "PT0.31S",
+              "offsetInTicks": 15133100000.0,
+              "durationInTicks": 3100000.0,
+              "confidence": 0.6929252
+            },
+            {
+              "word": "कर",
+              "offset": "PT25M13.63S",
+              "duration": "PT0.11S",
+              "offsetInTicks": 15136300000.0,
+              "durationInTicks": 1100000.0,
+              "confidence": 0.70016426
+            },
+            {
+              "word": "देना",
+              "offset": "PT25M13.75S",
+              "duration": "PT0.29S",
+              "offsetInTicks": 15137500000.0,
+              "durationInTicks": 2900000.0,
+              "confidence": 0.77105963
+            },
+            {
+              "word": "कॉल",
+              "offset": "PT25M14.17S",
+              "duration": "PT0.26S",
+              "offsetInTicks": 15141700000.0,
+              "durationInTicks": 2600000.0,
+              "confidence": 0.29032364
+            },
+            {
+              "word": "भी",
+              "offset": "PT25M14.44S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 15144400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.70104456
+            },
+            {
+              "word": "आ",
+              "offset": "PT25M14.57S",
+              "duration": "PT0.09S",
+              "offsetInTicks": 15145700000.0,
+              "durationInTicks": 900000.0,
+              "confidence": 0.8584968
+            },
+            {
+              "word": "जाएगी",
+              "offset": "PT25M14.67S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 15146700000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.7708526
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT25M18.22S",
+      "duration": "PT0.59S",
+      "offsetInTicks": 15182200000.0,
+      "durationInTicks": 5900000.0,
+      "nBest": [
+        {
+          "confidence": 0.46945262,
+          "lexical": "ठंडक कम",
+          "itn": "ठंडक कम",
+          "maskedITN": "ठंडक कम।",
+          "display": "ठंडक कम।",
+          "words": [
+            {
+              "word": "ठंडक",
+              "offset": "PT25M18.22S",
+              "duration": "PT0.39S",
+              "offsetInTicks": 15182200000.0,
+              "durationInTicks": 3900000.0,
+              "confidence": 0.20232171
+            },
+            {
+              "word": "कम",
+              "offset": "PT25M18.62S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 15186200000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.45632792
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT25M18.82S",
+      "duration": "PT1.54S",
+      "offsetInTicks": 15188200000.0,
+      "durationInTicks": 15400000.0,
+      "nBest": [
+        {
+          "confidence": 0.46945262,
+          "lexical": "कर लूँ और आठ घंटे करो",
+          "itn": "कर लूँ और 8 घंटे करो",
+          "maskedITN": "कर लूँ और 8 घंटे करो।",
+          "display": "कर लूँ और 8 घंटे करो।",
+          "words": [
+            {
+              "word": "कर",
+              "offset": "PT25M18.82S",
+              "duration": "PT0.17S",
+              "offsetInTicks": 15188200000.0,
+              "durationInTicks": 1700000.0,
+              "confidence": 0.626127
+            },
+            {
+              "word": "लूँ",
+              "offset": "PT25M19S",
+              "duration": "PT0.23S",
+              "offsetInTicks": 15190000000.0,
+              "durationInTicks": 2300000.0,
+              "confidence": 0.55053174
+            },
+            {
+              "word": "और",
+              "offset": "PT25M19.26S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 15192600000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.60870725
+            },
+            {
+              "word": "आठ",
+              "offset": "PT25M19.68S",
+              "duration": "PT0.11S",
+              "offsetInTicks": 15196800000.0,
+              "durationInTicks": 1100000.0,
+              "confidence": 0.8495364
+            },
+            {
+              "word": "घंटे",
+              "offset": "PT25M19.8S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 15198000000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.49047285
+            },
+            {
+              "word": "करो",
+              "offset": "PT25M20.08S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 15200800000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.30336416
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT25M25.93S",
+      "duration": "PT0.8S",
+      "offsetInTicks": 15259300000.0,
+      "durationInTicks": 8000000.0,
+      "nBest": [
+        {
+          "confidence": 0.6904916,
+          "lexical": "वो भी नहीं है",
+          "itn": "वो भी नहीं है",
+          "maskedITN": "वो भी नहीं है।",
+          "display": "वो भी नहीं है।",
+          "words": [
+            {
+              "word": "वो",
+              "offset": "PT25M25.93S",
+              "duration": "PT0.22S",
+              "offsetInTicks": 15259300000.0,
+              "durationInTicks": 2200000.0,
+              "confidence": 0.48804525
+            },
+            {
+              "word": "भी",
+              "offset": "PT25M26.16S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 15261600000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.8095592
+            },
+            {
+              "word": "नहीं",
+              "offset": "PT25M26.3S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 15263000000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.79151887
+            },
+            {
+              "word": "है",
+              "offset": "PT25M26.5S",
+              "duration": "PT0.23S",
+              "offsetInTicks": 15265000000.0,
+              "durationInTicks": 2300000.0,
+              "confidence": 0.73085725
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT25M31.51S",
+      "duration": "PT2.6S",
+      "offsetInTicks": 15315100000.0,
+      "durationInTicks": 26000000.0,
+      "nBest": [
+        {
+          "confidence": 0.64901924,
+          "lexical": "यहाँ से मेरे को बोलने के लिए अब ये बताओ मेरे घर के पास आ गया",
+          "itn": "यहाँ से मेरे को बोलने के लिए अब ये बताओ मेरे घर के पास आ गया",
+          "maskedITN": "यहाँ से मेरे को बोलने के लिए अब ये बताओ मेरे घर के पास आ गया।",
+          "display": "यहाँ से मेरे को बोलने के लिए अब ये बताओ मेरे घर के पास आ गया।",
+          "words": [
+            {
+              "word": "यहाँ",
+              "offset": "PT25M31.51S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 15315100000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.44179326
+            },
+            {
+              "word": "से",
+              "offset": "PT25M31.77S",
+              "duration": "PT0.09S",
+              "offsetInTicks": 15317700000.0,
+              "durationInTicks": 900000.0,
+              "confidence": 0.73042727
+            },
+            {
+              "word": "मेरे",
+              "offset": "PT25M31.87S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 15318700000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.70578134
+            },
+            {
+              "word": "को",
+              "offset": "PT25M32.01S",
+              "duration": "PT0.09S",
+              "offsetInTicks": 15320100000.0,
+              "durationInTicks": 900000.0,
+              "confidence": 0.72408396
+            },
+            {
+              "word": "बोलने",
+              "offset": "PT25M32.11S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 15321100000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.570976
+            },
+            {
+              "word": "के",
+              "offset": "PT25M32.36S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 15323600000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.84590876
+            },
+            {
+              "word": "लिए",
+              "offset": "PT25M32.45S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 15324500000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.6018229
+            },
+            {
+              "word": "अब",
+              "offset": "PT25M32.58S",
+              "duration": "PT0.18S",
+              "offsetInTicks": 15325800000.0,
+              "durationInTicks": 1800000.0,
+              "confidence": 0.73984474
+            },
+            {
+              "word": "ये",
+              "offset": "PT25M32.77S",
+              "duration": "PT0.09S",
+              "offsetInTicks": 15327700000.0,
+              "durationInTicks": 900000.0,
+              "confidence": 0.83437455
+            },
+            {
+              "word": "बताओ",
+              "offset": "PT25M32.87S",
+              "duration": "PT0.23S",
+              "offsetInTicks": 15328700000.0,
+              "durationInTicks": 2300000.0,
+              "confidence": 0.7919377
+            },
+            {
+              "word": "मेरे",
+              "offset": "PT25M33.11S",
+              "duration": "PT0.14S",
+              "offsetInTicks": 15331100000.0,
+              "durationInTicks": 1400000.0,
+              "confidence": 0.4063038
+            },
+            {
+              "word": "घर",
+              "offset": "PT25M33.26S",
+              "duration": "PT0.22S",
+              "offsetInTicks": 15332600000.0,
+              "durationInTicks": 2200000.0,
+              "confidence": 0.4656552
+            },
+            {
+              "word": "के",
+              "offset": "PT25M33.49S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 15334900000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.81972986
+            },
+            {
+              "word": "पास",
+              "offset": "PT25M33.58S",
+              "duration": "PT0.14S",
+              "offsetInTicks": 15335800000.0,
+              "durationInTicks": 1400000.0,
+              "confidence": 0.5304661
+            },
+            {
+              "word": "आ",
+              "offset": "PT25M33.73S",
+              "duration": "PT0.05S",
+              "offsetInTicks": 15337300000.0,
+              "durationInTicks": 500000.0,
+              "confidence": 0.84385836
+            },
+            {
+              "word": "गया",
+              "offset": "PT25M33.79S",
+              "duration": "PT0.32S",
+              "offsetInTicks": 15337900000.0,
+              "durationInTicks": 3200000.0,
+              "confidence": 0.7624376
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT25M35.87S",
+      "duration": "PT1.58S",
+      "offsetInTicks": 15358700000.0,
+      "durationInTicks": 15800000.0,
+      "nBest": [
+        {
+          "confidence": 0.5880001,
+          "lexical": "कहा जाएंगे वैसे भी कही सारे हम तो",
+          "itn": "कहा जाएंगे वैसे भी कही सारे हम तो",
+          "maskedITN": "कहा जाएंगे वैसे भी कही सारे हम तो।",
+          "display": "कहा जाएंगे वैसे भी कही सारे हम तो।",
+          "words": [
+            {
+              "word": "कहा",
+              "offset": "PT25M35.87S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 15358700000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.35204458
+            },
+            {
+              "word": "जाएंगे",
+              "offset": "PT25M36.07S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 15360700000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.6796932
+            },
+            {
+              "word": "वैसे",
+              "offset": "PT25M36.32S",
+              "duration": "PT0.29S",
+              "offsetInTicks": 15363200000.0,
+              "durationInTicks": 2900000.0,
+              "confidence": 0.43898806
+            },
+            {
+              "word": "भी",
+              "offset": "PT25M36.62S",
+              "duration": "PT0.07S",
+              "offsetInTicks": 15366200000.0,
+              "durationInTicks": 700000.0,
+              "confidence": 0.6566587
+            },
+            {
+              "word": "कही",
+              "offset": "PT25M36.7S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 15367000000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.6688968
+            },
+            {
+              "word": "सारे",
+              "offset": "PT25M36.87S",
+              "duration": "PT0.18S",
+              "offsetInTicks": 15368700000.0,
+              "durationInTicks": 1800000.0,
+              "confidence": 0.5403205
+            },
+            {
+              "word": "हम",
+              "offset": "PT25M37.06S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 15370600000.0,
+              "durationInTicks": 1600000.0,
+              "confidence": 0.64769506
+            },
+            {
+              "word": "तो",
+              "offset": "PT25M37.23S",
+              "duration": "PT0.22S",
+              "offsetInTicks": 15372300000.0,
+              "durationInTicks": 2200000.0,
+              "confidence": 0.8038293
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT25M39.56S",
+      "duration": "PT2.34S",
+      "offsetInTicks": 15395600000.0,
+      "durationInTicks": 23400000.0,
+      "nBest": [
+        {
+          "confidence": 0.5880001,
+          "lexical": "देख ही लगे है की मैं",
+          "itn": "देख ही लगे है की मैं",
+          "maskedITN": "देख ही लगे है की मैं।",
+          "display": "देख ही लगे है की मैं।",
+          "words": [
+            {
+              "word": "देख",
+              "offset": "PT25M39.56S",
+              "duration": "PT0.29S",
+              "offsetInTicks": 15395600000.0,
+              "durationInTicks": 2900000.0,
+              "confidence": 0.46335447
+            },
+            {
+              "word": "ही",
+              "offset": "PT25M39.86S",
+              "duration": "PT0.17S",
+              "offsetInTicks": 15398600000.0,
+              "durationInTicks": 1700000.0,
+              "confidence": 0.80563134
+            },
+            {
+              "word": "लगे",
+              "offset": "PT25M40.04S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 15400400000.0,
+              "durationInTicks": 4000000.0,
+              "confidence": 0.6451426
+            },
+            {
+              "word": "है",
+              "offset": "PT25M40.45S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 15404500000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.5971648
+            },
+            {
+              "word": "की",
+              "offset": "PT25M40.59S",
+              "duration": "PT0.42S",
+              "offsetInTicks": 15405900000.0,
+              "durationInTicks": 4200000.0,
+              "confidence": 0.7034351
+            },
+            {
+              "word": "मैं",
+              "offset": "PT25M41.44S",
+              "duration": "PT0.46S",
+              "offsetInTicks": 15414400000.0,
+              "durationInTicks": 4600000.0,
+              "confidence": 0.42388994
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT25M44.77S",
+      "duration": "PT0.56S",
+      "offsetInTicks": 15447700000.0,
+      "durationInTicks": 5600000.0,
+      "nBest": [
+        {
+          "confidence": 0.45338917,
+          "lexical": "ये बेटा",
+          "itn": "ये बेटा",
+          "maskedITN": "ये बेटा।",
+          "display": "ये बेटा।",
+          "words": [
+            {
+              "word": "ये",
+              "offset": "PT25M44.77S",
+              "duration": "PT0.21S",
+              "offsetInTicks": 15447700000.0,
+              "durationInTicks": 2100000.0,
+              "confidence": 0.56864953
+            },
+            {
+              "word": "बेटा",
+              "offset": "PT25M44.99S",
+              "duration": "PT0.34S",
+              "offsetInTicks": 15449900000.0,
+              "durationInTicks": 3400000.0,
+              "confidence": 0.38093975
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT25M59.53S",
+      "duration": "PT1.2S",
+      "offsetInTicks": 15595300000.0,
+      "durationInTicks": 12000000.0,
+      "nBest": [
+        {
+          "confidence": 0.4326381,
+          "lexical": "तुम्हारे फायदा नहीं है",
+          "itn": "तुम्हारे फायदा नहीं है",
+          "maskedITN": "तुम्हारे फायदा नहीं है।",
+          "display": "तुम्हारे फायदा नहीं है।",
+          "words": [
+            {
+              "word": "तुम्हारे",
+              "offset": "PT25M59.53S",
+              "duration": "PT0.43S",
+              "offsetInTicks": 15595300000.0,
+              "durationInTicks": 4300000.0,
+              "confidence": 0.17702264
+            },
+            {
+              "word": "फायदा",
+              "offset": "PT25M59.97S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 15599700000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.33134818
+            },
+            {
+              "word": "नहीं",
+              "offset": "PT26M0.35S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 15603500000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.85236025
+            },
+            {
+              "word": "है",
+              "offset": "PT26M0.51S",
+              "duration": "PT0.22S",
+              "offsetInTicks": 15605100000.0,
+              "durationInTicks": 2200000.0,
+              "confidence": 0.79700947
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT26M2.7S",
+      "duration": "PT0.95S",
+      "offsetInTicks": 15627000000.0,
+      "durationInTicks": 9500000.0,
+      "nBest": [
+        {
+          "confidence": 0.34786737,
+          "lexical": "नारायण",
+          "itn": "नारायण",
+          "maskedITN": "नारायण",
+          "display": "नारायण?",
+          "words": [
+            {
+              "word": "नारायण",
+              "offset": "PT26M2.7S",
+              "duration": "PT0.95S",
+              "offsetInTicks": 15627000000.0,
+              "durationInTicks": 9500000.0,
+              "confidence": 0.34786737
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT26M5.79S",
+      "duration": "PT4.37S",
+      "offsetInTicks": 15657900000.0,
+      "durationInTicks": 43700000.0,
+      "nBest": [
+        {
+          "confidence": 0.5747857,
+          "lexical": "पंद्रह पंद्रह पंद्रह",
+          "itn": "151515",
+          "maskedITN": "151515।",
+          "display": "151515।",
+          "words": [
+            {
+              "word": "पंद्रह",
+              "offset": "PT26M5.79S",
+              "duration": "PT0.59S",
+              "offsetInTicks": 15657900000.0,
+              "durationInTicks": 5900000.0,
+              "confidence": 0.48759255
+            },
+            {
+              "word": "पंद्रह",
+              "offset": "PT26M8.15S",
+              "duration": "PT0.61S",
+              "offsetInTicks": 15681500000.0,
+              "durationInTicks": 6100000.0,
+              "confidence": 0.6632954
+            },
+            {
+              "word": "पंद्रह",
+              "offset": "PT26M9.59S",
+              "duration": "PT0.57S",
+              "offsetInTicks": 15695900000.0,
+              "durationInTicks": 5700000.0,
+              "confidence": 0.5703717
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT26M27.94S",
+      "duration": "PT0.41S",
+      "offsetInTicks": 15879400000.0,
+      "durationInTicks": 4100000.0,
+      "nBest": [
+        {
+          "confidence": 0.6081885,
+          "lexical": "हाँ",
+          "itn": "हाँ",
+          "maskedITN": "हाँ।",
+          "display": "हाँ।",
+          "words": [
+            {
+              "word": "हाँ",
+              "offset": "PT26M27.94S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 15879400000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.6081885
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT26M36.52S",
+      "duration": "PT0.51S",
+      "offsetInTicks": 15965200000.0,
+      "durationInTicks": 5100000.0,
+      "nBest": [
+        {
+          "confidence": 0.52461654,
+          "lexical": "तो",
+          "itn": "तो",
+          "maskedITN": "तो",
+          "display": "तो?",
+          "words": [
+            {
+              "word": "तो",
+              "offset": "PT26M36.52S",
+              "duration": "PT0.51S",
+              "offsetInTicks": 15965200000.0,
+              "durationInTicks": 5100000.0,
+              "confidence": 0.52461654
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT27M1.92S",
+      "duration": "PT0.34S",
+      "offsetInTicks": 16219200000.0,
+      "durationInTicks": 3400000.0,
+      "nBest": [
+        {
+          "confidence": 0.48814768,
+          "lexical": "वो",
+          "itn": "वो",
+          "maskedITN": "वो।",
+          "display": "वो।",
+          "words": [
+            {
+              "word": "वो",
+              "offset": "PT27M1.92S",
+              "duration": "PT0.34S",
+              "offsetInTicks": 16219200000.0,
+              "durationInTicks": 3400000.0,
+              "confidence": 0.48814768
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT27M4.39S",
+      "duration": "PT1.81S",
+      "offsetInTicks": 16243900000.0,
+      "durationInTicks": 18100000.0,
+      "nBest": [
+        {
+          "confidence": 0.38039732,
+          "lexical": "रहे हैं",
+          "itn": "रहे हैं",
+          "maskedITN": "रहे हैं।",
+          "display": "रहे हैं।",
+          "words": [
+            {
+              "word": "रहे",
+              "offset": "PT27M4.39S",
+              "duration": "PT0.53S",
+              "offsetInTicks": 16243900000.0,
+              "durationInTicks": 5300000.0,
+              "confidence": 0.2776528
+            },
+            {
+              "word": "हैं",
+              "offset": "PT27M6.01S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 16260100000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.65780747
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT27M16.52S",
+      "duration": "PT0.55S",
+      "offsetInTicks": 16365200000.0,
+      "durationInTicks": 5500000.0,
+      "nBest": [
+        {
+          "confidence": 0.35422945,
+          "lexical": "नहीं",
+          "itn": "नहीं",
+          "maskedITN": "नहीं।",
+          "display": "नहीं।",
+          "words": [
+            {
+              "word": "नहीं",
+              "offset": "PT27M16.52S",
+              "duration": "PT0.55S",
+              "offsetInTicks": 16365200000.0,
+              "durationInTicks": 5500000.0,
+              "confidence": 0.35422945
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT27M21.45S",
+      "duration": "PT1.06S",
+      "offsetInTicks": 16414500000.0,
+      "durationInTicks": 10600000.0,
+      "nBest": [
+        {
+          "confidence": 0.68258846,
+          "lexical": "दिल का डाल देना",
+          "itn": "दिल का डाल देना",
+          "maskedITN": "दिल का डाल देना।",
+          "display": "दिल का डाल देना।",
+          "words": [
+            {
+              "word": "दिल",
+              "offset": "PT27M21.45S",
+              "duration": "PT0.29S",
+              "offsetInTicks": 16414500000.0,
+              "durationInTicks": 2900000.0,
+              "confidence": 0.475562
+            },
+            {
+              "word": "का",
+              "offset": "PT27M21.75S",
+              "duration": "PT0.11S",
+              "offsetInTicks": 16417500000.0,
+              "durationInTicks": 1100000.0,
+              "confidence": 0.5966034
+            },
+            {
+              "word": "डाल",
+              "offset": "PT27M21.87S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 16418700000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.74706113
+            },
+            {
+              "word": "देना",
+              "offset": "PT27M22.15S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 16421500000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.82954466
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT27M40.37S",
+      "duration": "PT0.59S",
+      "offsetInTicks": 16603700000.0,
+      "durationInTicks": 5900000.0,
+      "nBest": [
+        {
+          "confidence": 0.720059,
+          "lexical": "हो गया",
+          "itn": "हो गया",
+          "maskedITN": "हो गया।",
+          "display": "हो गया।",
+          "words": [
+            {
+              "word": "हो",
+              "offset": "PT27M40.37S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 16603700000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.5491282
+            },
+            {
+              "word": "गया",
+              "offset": "PT27M40.57S",
+              "duration": "PT0.39S",
+              "offsetInTicks": 16605700000.0,
+              "durationInTicks": 3900000.0,
+              "confidence": 0.80552435
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT27M42.7S",
+      "duration": "PT0.65S",
+      "offsetInTicks": 16627000000.0,
+      "durationInTicks": 6500000.0,
+      "nBest": [
+        {
+          "confidence": 0.53382844,
+          "lexical": "जी",
+          "itn": "जी",
+          "maskedITN": "जी।",
+          "display": "जी।",
+          "words": [
+            {
+              "word": "जी",
+              "offset": "PT27M42.7S",
+              "duration": "PT0.65S",
+              "offsetInTicks": 16627000000.0,
+              "durationInTicks": 6500000.0,
+              "confidence": 0.53382844
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT27M44.91S",
+      "duration": "PT0.79S",
+      "offsetInTicks": 16649100000.0,
+      "durationInTicks": 7900000.0,
+      "nBest": [
+        {
+          "confidence": 0.48869485,
+          "lexical": "क्या कर दिया मैंने",
+          "itn": "क्या कर दिया मैंने",
+          "maskedITN": "क्या कर दिया मैंने",
+          "display": "क्या कर दिया मैंने?",
+          "words": [
+            {
+              "word": "क्या",
+              "offset": "PT27M44.91S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 16649100000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.29252785
+            },
+            {
+              "word": "कर",
+              "offset": "PT27M45.17S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 16651700000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.6368659
+            },
+            {
+              "word": "दिया",
+              "offset": "PT27M45.3S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 16653000000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.57540977
+            },
+            {
+              "word": "मैंने",
+              "offset": "PT27M45.46S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 16654600000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.5601619
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT27M47.4S",
+      "duration": "PT0.85S",
+      "offsetInTicks": 16674000000.0,
+      "durationInTicks": 8500000.0,
+      "nBest": [
+        {
+          "confidence": 0.67572945,
+          "lexical": "कर क्या रहा है ये",
+          "itn": "कर क्या रहा है ये",
+          "maskedITN": "कर क्या रहा है ये",
+          "display": "कर क्या रहा है ये?",
+          "words": [
+            {
+              "word": "कर",
+              "offset": "PT27M47.4S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 16674000000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.44993913
+            },
+            {
+              "word": "क्या",
+              "offset": "PT27M47.68S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 16676800000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.58897966
+            },
+            {
+              "word": "रहा",
+              "offset": "PT27M47.81S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 16678100000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.8720372
+            },
+            {
+              "word": "है",
+              "offset": "PT27M47.94S",
+              "duration": "PT0.06S",
+              "offsetInTicks": 16679400000.0,
+              "durationInTicks": 600000.0,
+              "confidence": 0.76276356
+            },
+            {
+              "word": "ये",
+              "offset": "PT27M48.01S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 16680100000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.847275
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT27M53.53S",
+      "duration": "PT3.54S",
+      "offsetInTicks": 16735300000.0,
+      "durationInTicks": 35400000.0,
+      "nBest": [
+        {
+          "confidence": 0.62472135,
+          "lexical": "भाई हाँ जिम का कर दो और आज उस पे कर दो",
+          "itn": "भाई हाँ जिम का कर दो और आज उस पे कर दो",
+          "maskedITN": "भाई हाँ जिम का कर दो और आज उस पे कर दो।",
+          "display": "भाई हाँ, जिम का कर दो और आज उस पे कर दो।",
+          "words": [
+            {
+              "word": "भाई",
+              "offset": "PT27M53.53S",
+              "duration": "PT0.3S",
+              "offsetInTicks": 16735300000.0,
+              "durationInTicks": 3000000.0,
+              "confidence": 0.5434476
+            },
+            {
+              "word": "हाँ",
+              "offset": "PT27M54.52S",
+              "duration": "PT0.29S",
+              "offsetInTicks": 16745200000.0,
+              "durationInTicks": 2900000.0,
+              "confidence": 0.6096134
+            },
+            {
+              "word": "जिम",
+              "offset": "PT27M54.82S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 16748200000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.34430355
+            },
+            {
+              "word": "का",
+              "offset": "PT27M55.18S",
+              "duration": "PT0.14S",
+              "offsetInTicks": 16751800000.0,
+              "durationInTicks": 1400000.0,
+              "confidence": 0.63978887
+            },
+            {
+              "word": "कर",
+              "offset": "PT27M55.33S",
+              "duration": "PT0.17S",
+              "offsetInTicks": 16753300000.0,
+              "durationInTicks": 1700000.0,
+              "confidence": 0.7548771
+            },
+            {
+              "word": "दो",
+              "offset": "PT27M55.51S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 16755100000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.91639435
+            },
+            {
+              "word": "और",
+              "offset": "PT27M56S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 16760000000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.46186966
+            },
+            {
+              "word": "आज",
+              "offset": "PT27M56.28S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 16762800000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.5189251
+            },
+            {
+              "word": "उस",
+              "offset": "PT27M56.42S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 16764200000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.66276234
+            },
+            {
+              "word": "पे",
+              "offset": "PT27M56.58S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 16765800000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.6845759
+            },
+            {
+              "word": "कर",
+              "offset": "PT27M56.78S",
+              "duration": "PT0.14S",
+              "offsetInTicks": 16767800000.0,
+              "durationInTicks": 1400000.0,
+              "confidence": 0.6640615
+            },
+            {
+              "word": "दो",
+              "offset": "PT27M56.93S",
+              "duration": "PT0.14S",
+              "offsetInTicks": 16769300000.0,
+              "durationInTicks": 1400000.0,
+              "confidence": 0.8482003
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT27M59.83S",
+      "duration": "PT0.84S",
+      "offsetInTicks": 16798300000.0,
+      "durationInTicks": 8400000.0,
+      "nBest": [
+        {
+          "confidence": 0.74427694,
+          "lexical": "इस बार ज्यादा होगी",
+          "itn": "इस बार ज्यादा होगी",
+          "maskedITN": "इस बार ज्यादा होगी।",
+          "display": "इस बार ज्यादा होगी।",
+          "words": [
+            {
+              "word": "इस",
+              "offset": "PT27M59.83S",
+              "duration": "PT0.17S",
+              "offsetInTicks": 16798300000.0,
+              "durationInTicks": 1700000.0,
+              "confidence": 0.5181105
+            },
+            {
+              "word": "बार",
+              "offset": "PT28M0.01S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 16800100000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.71920884
+            },
+            {
+              "word": "ज्यादा",
+              "offset": "PT28M0.17S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 16801700000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.8487189
+            },
+            {
+              "word": "होगी",
+              "offset": "PT28M0.37S",
+              "duration": "PT0.3S",
+              "offsetInTicks": 16803700000.0,
+              "durationInTicks": 3000000.0,
+              "confidence": 0.8211558
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT28M4.81S",
+      "duration": "PT1.15S",
+      "offsetInTicks": 16848100000.0,
+      "durationInTicks": 11500000.0,
+      "nBest": [
+        {
+          "confidence": 0.6196954,
+          "lexical": "अब इसमें ऐसा करो ना",
+          "itn": "अब इसमें ऐसा करो ना",
+          "maskedITN": "अब इसमें ऐसा करो ना।",
+          "display": "अब इसमें ऐसा करो ना।",
+          "words": [
+            {
+              "word": "अब",
+              "offset": "PT28M4.81S",
+              "duration": "PT0.23S",
+              "offsetInTicks": 16848100000.0,
+              "durationInTicks": 2300000.0,
+              "confidence": 0.48917067
+            },
+            {
+              "word": "इसमें",
+              "offset": "PT28M5.05S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 16850500000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.5796635
+            },
+            {
+              "word": "ऐसा",
+              "offset": "PT28M5.31S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 16853100000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.6953281
+            },
+            {
+              "word": "करो",
+              "offset": "PT28M5.47S",
+              "duration": "PT0.21S",
+              "offsetInTicks": 16854700000.0,
+              "durationInTicks": 2100000.0,
+              "confidence": 0.5913505
+            },
+            {
+              "word": "ना",
+              "offset": "PT28M5.69S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 16856900000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.7477987
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT28M15.59S",
+      "duration": "PT0.66S",
+      "offsetInTicks": 16955900000.0,
+      "durationInTicks": 6600000.0,
+      "nBest": [
+        {
+          "confidence": 0.57763034,
+          "lexical": "हो गया वो",
+          "itn": "हो गया वो",
+          "maskedITN": "हो गया वो",
+          "display": "हो गया वो?",
+          "words": [
+            {
+              "word": "हो",
+              "offset": "PT28M15.59S",
+              "duration": "PT0.22S",
+              "offsetInTicks": 16955900000.0,
+              "durationInTicks": 2200000.0,
+              "confidence": 0.45262003
+            },
+            {
+              "word": "गया",
+              "offset": "PT28M15.82S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 16958200000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.4756925
+            },
+            {
+              "word": "वो",
+              "offset": "PT28M15.98S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 16959800000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.7385676
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT28M17.57S",
+      "duration": "PT0.93S",
+      "offsetInTicks": 16975700000.0,
+      "durationInTicks": 9300000.0,
+      "nBest": [
+        {
+          "confidence": 0.52078295,
+          "lexical": "और और",
+          "itn": "और और",
+          "maskedITN": "और और।",
+          "display": "और और।",
+          "words": [
+            {
+              "word": "और",
+              "offset": "PT28M17.57S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 16975700000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.4853893
+            },
+            {
+              "word": "और",
+              "offset": "PT28M18.2S",
+              "duration": "PT0.3S",
+              "offsetInTicks": 16982000000.0,
+              "durationInTicks": 3000000.0,
+              "confidence": 0.5618852
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT28M20.27S",
+      "duration": "PT1.36S",
+      "offsetInTicks": 17002700000.0,
+      "durationInTicks": 13600000.0,
+      "nBest": [
+        {
+          "confidence": 0.59244007,
+          "lexical": "हाँ तेरे",
+          "itn": "हाँ तेरे",
+          "maskedITN": "हाँ तेरे।",
+          "display": "हाँ तेरे।",
+          "words": [
+            {
+              "word": "हाँ",
+              "offset": "PT28M20.27S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 17002700000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.68957525
+            },
+            {
+              "word": "तेरे",
+              "offset": "PT28M21.08S",
+              "duration": "PT0.55S",
+              "offsetInTicks": 17010800000.0,
+              "durationInTicks": 5500000.0,
+              "confidence": 0.35503474
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT28M24.04S",
+      "duration": "PT0.73S",
+      "offsetInTicks": 17040400000.0,
+      "durationInTicks": 7300000.0,
+      "nBest": [
+        {
+          "confidence": 0.59244007,
+          "lexical": "मम्मी पापा जी",
+          "itn": "मम्मी पापा जी",
+          "maskedITN": "मम्मी पापा जी।",
+          "display": "मम्मी पापा जी।",
+          "words": [
+            {
+              "word": "मम्मी",
+              "offset": "PT28M24.04S",
+              "duration": "PT0.23S",
+              "offsetInTicks": 17040400000.0,
+              "durationInTicks": 2300000.0,
+              "confidence": 0.5615239
+            },
+            {
+              "word": "पापा",
+              "offset": "PT28M24.28S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 17042800000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.8093113
+            },
+            {
+              "word": "जी",
+              "offset": "PT28M24.49S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 17044900000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.79213846
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT28M28.12S",
+      "duration": "PT5.54S",
+      "offsetInTicks": 17081200000.0,
+      "durationInTicks": 55400000.0,
+      "nBest": [
+        {
+          "confidence": 0.6490421,
+          "lexical": "ऐसा इसमें ऐसा करना इनका क्या क्या कर रहे हैं मैं तो इसमें वो करो",
+          "itn": "ऐसा इसमें ऐसा करना इनका क्या क्या कर रहे हैं मैं तो इसमें वो करो",
+          "maskedITN": "ऐसा इसमें ऐसा करना इनका क्या क्या कर रहे हैं मैं तो इसमें वो करो।",
+          "display": "ऐसा इसमें ऐसा करना इनका क्या क्या कर रहे हैं मैं तो इसमें वो करो।",
+          "words": [
+            {
+              "word": "ऐसा",
+              "offset": "PT28M28.12S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 17081200000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.5386192
+            },
+            {
+              "word": "इसमें",
+              "offset": "PT28M28.48S",
+              "duration": "PT0.22S",
+              "offsetInTicks": 17084800000.0,
+              "durationInTicks": 2200000.0,
+              "confidence": 0.42559275
+            },
+            {
+              "word": "ऐसा",
+              "offset": "PT28M28.71S",
+              "duration": "PT0.14S",
+              "offsetInTicks": 17087100000.0,
+              "durationInTicks": 1400000.0,
+              "confidence": 0.80414045
+            },
+            {
+              "word": "करना",
+              "offset": "PT28M28.86S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 17088600000.0,
+              "durationInTicks": 4800000.0,
+              "confidence": 0.7129018
+            },
+            {
+              "word": "इनका",
+              "offset": "PT28M29.46S",
+              "duration": "PT0.46S",
+              "offsetInTicks": 17094600000.0,
+              "durationInTicks": 4600000.0,
+              "confidence": 0.4128773
+            },
+            {
+              "word": "क्या",
+              "offset": "PT28M29.95S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 17099500000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.53708464
+            },
+            {
+              "word": "क्या",
+              "offset": "PT28M30.2S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 17102000000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.77217346
+            },
+            {
+              "word": "कर",
+              "offset": "PT28M30.45S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 17104500000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.8186926
+            },
+            {
+              "word": "रहे",
+              "offset": "PT28M30.58S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 17105800000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.8732219
+            },
+            {
+              "word": "हैं",
+              "offset": "PT28M30.71S",
+              "duration": "PT0.05S",
+              "offsetInTicks": 17107100000.0,
+              "durationInTicks": 500000.0,
+              "confidence": 0.6342198
+            },
+            {
+              "word": "मैं",
+              "offset": "PT28M30.77S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 17107700000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.54894197
+            },
+            {
+              "word": "तो",
+              "offset": "PT28M31.88S",
+              "duration": "PT0.17S",
+              "offsetInTicks": 17118800000.0,
+              "durationInTicks": 1700000.0,
+              "confidence": 0.70711654
+            },
+            {
+              "word": "इसमें",
+              "offset": "PT28M32.06S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 17120600000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.66911954
+            },
+            {
+              "word": "वो",
+              "offset": "PT28M33.01S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 17130100000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.7088614
+            },
+            {
+              "word": "करो",
+              "offset": "PT28M33.3S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 17133000000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.87088907
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT28M35.27S",
+      "duration": "PT2.15S",
+      "offsetInTicks": 17152700000.0,
+      "durationInTicks": 21500000.0,
+      "nBest": [
+        {
+          "confidence": 0.5518961,
+          "lexical": "दस दिन का कर दो कितना पंद्रह रही है",
+          "itn": "10 दिन का कर दो कितना 15 रही है",
+          "maskedITN": "10 दिन का कर दो कितना 15 रही है।",
+          "display": "10 दिन का कर दो, कितना 15 रही है।",
+          "words": [
+            {
+              "word": "दस",
+              "offset": "PT28M35.27S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 17152700000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.3925159
+            },
+            {
+              "word": "दिन",
+              "offset": "PT28M35.53S",
+              "duration": "PT0.14S",
+              "offsetInTicks": 17155300000.0,
+              "durationInTicks": 1400000.0,
+              "confidence": 0.75258
+            },
+            {
+              "word": "का",
+              "offset": "PT28M35.68S",
+              "duration": "PT0.11S",
+              "offsetInTicks": 17156800000.0,
+              "durationInTicks": 1100000.0,
+              "confidence": 0.78723943
+            },
+            {
+              "word": "कर",
+              "offset": "PT28M35.8S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 17158000000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.6313317
+            },
+            {
+              "word": "दो",
+              "offset": "PT28M35.93S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 17159300000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.85735416
+            },
+            {
+              "word": "कितना",
+              "offset": "PT28M36.35S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 17163500000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.13087857
+            },
+            {
+              "word": "पंद्रह",
+              "offset": "PT28M36.73S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 17167300000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.47343972
+            },
+            {
+              "word": "रही",
+              "offset": "PT28M37.09S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 17170900000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.67172146
+            },
+            {
+              "word": "है",
+              "offset": "PT28M37.23S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 17172300000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.8453736
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT28M39.28S",
+      "duration": "PT0.96S",
+      "offsetInTicks": 17192800000.0,
+      "durationInTicks": 9600000.0,
+      "nBest": [
+        {
+          "confidence": 0.6005396,
+          "lexical": "कम से कम दो आदमी",
+          "itn": "कम से कम दो आदमी",
+          "maskedITN": "कम से कम दो आदमी।",
+          "display": "कम से कम दो आदमी।",
+          "words": [
+            {
+              "word": "कम",
+              "offset": "PT28M39.28S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 17192800000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.36876103
+            },
+            {
+              "word": "से",
+              "offset": "PT28M39.49S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 17194900000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.7942209
+            },
+            {
+              "word": "कम",
+              "offset": "PT28M39.58S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 17195800000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.61484224
+            },
+            {
+              "word": "दो",
+              "offset": "PT28M39.67S",
+              "duration": "PT0.14S",
+              "offsetInTicks": 17196700000.0,
+              "durationInTicks": 1400000.0,
+              "confidence": 0.7931726
+            },
+            {
+              "word": "आदमी",
+              "offset": "PT28M39.82S",
+              "duration": "PT0.42S",
+              "offsetInTicks": 17198200000.0,
+              "durationInTicks": 4200000.0,
+              "confidence": 0.60300475
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT29M3.17S",
+      "duration": "PT0.48S",
+      "offsetInTicks": 17431700000.0,
+      "durationInTicks": 4800000.0,
+      "nBest": [
+        {
+          "confidence": 0.5226519,
+          "lexical": "क्या है",
+          "itn": "क्या है",
+          "maskedITN": "क्या है",
+          "display": "क्या है?",
+          "words": [
+            {
+              "word": "क्या",
+              "offset": "PT29M3.17S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 17431700000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.45284808
+            },
+            {
+              "word": "है",
+              "offset": "PT29M3.54S",
+              "duration": "PT0.11S",
+              "offsetInTicks": 17435400000.0,
+              "durationInTicks": 1100000.0,
+              "confidence": 0.7378804
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT29M7.26S",
+      "duration": "PT5.15S",
+      "offsetInTicks": 17472600000.0,
+      "durationInTicks": 51500000.0,
+      "nBest": [
+        {
+          "confidence": 0.5003644,
+          "lexical": "अनुराज क्या नाम है उसका उसका क्या नाम है छोटे वाले का हाँ",
+          "itn": "अनुराज क्या नाम है उसका उसका क्या नाम है छोटे वाले का हाँ",
+          "maskedITN": "अनुराज क्या नाम है उसका उसका क्या नाम है छोटे वाले का हाँ",
+          "display": "अनुराज क्या नाम है उसका, उसका क्या नाम है, छोटे वाले का हाँ?",
+          "words": [
+            {
+              "word": "अनुराज",
+              "offset": "PT29M7.26S",
+              "duration": "PT0.99S",
+              "offsetInTicks": 17472600000.0,
+              "durationInTicks": 9900000.0,
+              "confidence": 0.102604866
+            },
+            {
+              "word": "क्या",
+              "offset": "PT29M8.26S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 17482600000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.45672652
+            },
+            {
+              "word": "नाम",
+              "offset": "PT29M8.54S",
+              "duration": "PT0.24S",
+              "offsetInTicks": 17485400000.0,
+              "durationInTicks": 2400000.0,
+              "confidence": 0.9138069
+            },
+            {
+              "word": "है",
+              "offset": "PT29M8.79S",
+              "duration": "PT0.06S",
+              "offsetInTicks": 17487900000.0,
+              "durationInTicks": 600000.0,
+              "confidence": 0.81993973
+            },
+            {
+              "word": "उसका",
+              "offset": "PT29M8.86S",
+              "duration": "PT0.45S",
+              "offsetInTicks": 17488600000.0,
+              "durationInTicks": 4500000.0,
+              "confidence": 0.8569302
+            },
+            {
+              "word": "उसका",
+              "offset": "PT29M9.71S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 17497100000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.32557645
+            },
+            {
+              "word": "क्या",
+              "offset": "PT29M9.91S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 17499100000.0,
+              "durationInTicks": 2000000.0,
+              "confidence": 0.80173934
+            },
+            {
+              "word": "नाम",
+              "offset": "PT29M10.12S",
+              "duration": "PT0.3S",
+              "offsetInTicks": 17501200000.0,
+              "durationInTicks": 3000000.0,
+              "confidence": 0.8995991
+            },
+            {
+              "word": "है",
+              "offset": "PT29M10.43S",
+              "duration": "PT0.15S",
+              "offsetInTicks": 17504300000.0,
+              "durationInTicks": 1500000.0,
+              "confidence": 0.7693248
+            },
+            {
+              "word": "छोटे",
+              "offset": "PT29M10.59S",
+              "duration": "PT0.26S",
+              "offsetInTicks": 17505900000.0,
+              "durationInTicks": 2600000.0,
+              "confidence": 0.20362592
+            },
+            {
+              "word": "वाले",
+              "offset": "PT29M10.86S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 17508600000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.4328898
+            },
+            {
+              "word": "का",
+              "offset": "PT29M11.14S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 17511400000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.5924578
+            },
+            {
+              "word": "हाँ",
+              "offset": "PT29M11.98S",
+              "duration": "PT0.43S",
+              "offsetInTicks": 17519800000.0,
+              "durationInTicks": 4300000.0,
+              "confidence": 0.47981486
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT29M13.97S",
+      "duration": "PT1.47S",
+      "offsetInTicks": 17539700000.0,
+      "durationInTicks": 14700000.0,
+      "nBest": [
+        {
+          "confidence": 0.43294424,
+          "lexical": "सहेलियां हाँ क्या देख",
+          "itn": "सहेलियां हाँ क्या देख",
+          "maskedITN": "सहेलियां हाँ क्या देख",
+          "display": "सहेलियां हाँ क्या देख?",
+          "words": [
+            {
+              "word": "सहेलियां",
+              "offset": "PT29M13.97S",
+              "duration": "PT0.62S",
+              "offsetInTicks": 17539700000.0,
+              "durationInTicks": 6200000.0,
+              "confidence": 0.26143873
+            },
+            {
+              "word": "हाँ",
+              "offset": "PT29M14.6S",
+              "duration": "PT0.22S",
+              "offsetInTicks": 17546000000.0,
+              "durationInTicks": 2200000.0,
+              "confidence": 0.4539236
+            },
+            {
+              "word": "क्या",
+              "offset": "PT29M14.83S",
+              "duration": "PT0.21S",
+              "offsetInTicks": 17548300000.0,
+              "durationInTicks": 2100000.0,
+              "confidence": 0.68833405
+            },
+            {
+              "word": "देख",
+              "offset": "PT29M15.05S",
+              "duration": "PT0.39S",
+              "offsetInTicks": 17550500000.0,
+              "durationInTicks": 3900000.0,
+              "confidence": 0.62724507
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT29M15.55S",
+      "duration": "PT0.54S",
+      "offsetInTicks": 17555500000.0,
+      "durationInTicks": 5400000.0,
+      "nBest": [
+        {
+          "confidence": 0.43294424,
+          "lexical": "दिवाली",
+          "itn": "दिवाली",
+          "maskedITN": "दिवाली",
+          "display": "दिवाली?",
+          "words": [
+            {
+              "word": "दिवाली",
+              "offset": "PT29M15.55S",
+              "duration": "PT0.54S",
+              "offsetInTicks": 17555500000.0,
+              "durationInTicks": 5400000.0,
+              "confidence": 0.37715736
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT29M17.84S",
+      "duration": "PT0.66S",
+      "offsetInTicks": 17578400000.0,
+      "durationInTicks": 6600000.0,
+      "nBest": [
+        {
+          "confidence": 0.31287205,
+          "lexical": "मुझे इस",
+          "itn": "मुझे इस",
+          "maskedITN": "मुझे इस।",
+          "display": "मुझे इस।",
+          "words": [
+            {
+              "word": "मुझे",
+              "offset": "PT29M17.84S",
+              "duration": "PT0.44S",
+              "offsetInTicks": 17578400000.0,
+              "durationInTicks": 4400000.0,
+              "confidence": 0.2366176
+            },
+            {
+              "word": "इस",
+              "offset": "PT29M18.29S",
+              "duration": "PT0.21S",
+              "offsetInTicks": 17582900000.0,
+              "durationInTicks": 2100000.0,
+              "confidence": 0.4688471
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT29M20.31S",
+      "duration": "PT2.35S",
+      "offsetInTicks": 17603100000.0,
+      "durationInTicks": 23500000.0,
+      "nBest": [
+        {
+          "confidence": 0.5342616,
+          "lexical": "बनाना है इसका ना",
+          "itn": "बनाना है इसका ना",
+          "maskedITN": "बनाना है इसका ना",
+          "display": "बनाना है इसका ना?",
+          "words": [
+            {
+              "word": "बनाना",
+              "offset": "PT29M20.31S",
+              "duration": "PT0.65S",
+              "offsetInTicks": 17603100000.0,
+              "durationInTicks": 6500000.0,
+              "confidence": 0.5926069
+            },
+            {
+              "word": "है",
+              "offset": "PT29M20.97S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 17609700000.0,
+              "durationInTicks": 800000.0,
+              "confidence": 0.8004669
+            },
+            {
+              "word": "इसका",
+              "offset": "PT29M21.9S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 17619000000.0,
+              "durationInTicks": 4000000.0,
+              "confidence": 0.32611954
+            },
+            {
+              "word": "ना",
+              "offset": "PT29M22.31S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 17623100000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.59779465
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT29M28.99S",
+      "duration": "PT0.54S",
+      "offsetInTicks": 17689900000.0,
+      "durationInTicks": 5400000.0,
+      "nBest": [
+        {
+          "confidence": 0.7104761,
+          "lexical": "हो गया",
+          "itn": "हो गया",
+          "maskedITN": "हो गया।",
+          "display": "हो गया।",
+          "words": [
+            {
+              "word": "हो",
+              "offset": "PT29M28.99S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 17689900000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.5202056
+            },
+            {
+              "word": "गया",
+              "offset": "PT29M29.13S",
+              "duration": "PT0.4S",
+              "offsetInTicks": 17691300000.0,
+              "durationInTicks": 4000000.0,
+              "confidence": 0.77544653
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT29M45.9S",
+      "duration": "PT2.25S",
+      "offsetInTicks": 17859000000.0,
+      "durationInTicks": 22500000.0,
+      "nBest": [
+        {
+          "confidence": 0.50554967,
+          "lexical": "तुम इतना ही नहीं",
+          "itn": "तुम इतना ही नहीं",
+          "maskedITN": "तुम इतना ही नहीं",
+          "display": "तुम इतना ही नहीं",
+          "words": [
+            {
+              "word": "तुम",
+              "offset": "PT29M45.9S",
+              "duration": "PT0.68S",
+              "offsetInTicks": 17859000000.0,
+              "durationInTicks": 6800000.0,
+              "confidence": 0.55618155
+            },
+            {
+              "word": "इतना",
+              "offset": "PT29M47.11S",
+              "duration": "PT0.25S",
+              "offsetInTicks": 17871100000.0,
+              "durationInTicks": 2500000.0,
+              "confidence": 0.38706926
+            },
+            {
+              "word": "ही",
+              "offset": "PT29M47.37S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 17873700000.0,
+              "durationInTicks": 2800000.0,
+              "confidence": 0.40451133
+            },
+            {
+              "word": "नहीं",
+              "offset": "PT29M47.78S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 17877800000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.5717865
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT29M49.15S",
+      "duration": "PT0.97S",
+      "offsetInTicks": 17891500000.0,
+      "durationInTicks": 9700000.0,
+      "nBest": [
+        {
+          "confidence": 0.6192921,
+          "lexical": "अरे यार",
+          "itn": "अरे यार",
+          "maskedITN": "अरे यार।",
+          "display": "अरे यार।",
+          "words": [
+            {
+              "word": "अरे",
+              "offset": "PT29M49.15S",
+              "duration": "PT0.63S",
+              "offsetInTicks": 17891500000.0,
+              "durationInTicks": 6300000.0,
+              "confidence": 0.5452552
+            },
+            {
+              "word": "यार",
+              "offset": "PT29M49.79S",
+              "duration": "PT0.33S",
+              "offsetInTicks": 17897900000.0,
+              "durationInTicks": 3300000.0,
+              "confidence": 0.75865567
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT29M51.67S",
+      "duration": "PT0.84S",
+      "offsetInTicks": 17916700000.0,
+      "durationInTicks": 8400000.0,
+      "nBest": [
+        {
+          "confidence": 0.3496999,
+          "lexical": "नया कुंजी है",
+          "itn": "नया कुंजी है",
+          "maskedITN": "नया कुंजी है।",
+          "display": "नया कुंजी है।",
+          "words": [
+            {
+              "word": "नया",
+              "offset": "PT29M51.67S",
+              "duration": "PT0.31S",
+              "offsetInTicks": 17916700000.0,
+              "durationInTicks": 3100000.0,
+              "confidence": 0.2530411
+            },
+            {
+              "word": "कुंजी",
+              "offset": "PT29M51.99S",
+              "duration": "PT0.38S",
+              "offsetInTicks": 17919900000.0,
+              "durationInTicks": 3800000.0,
+              "confidence": 0.32148594
+            },
+            {
+              "word": "है",
+              "offset": "PT29M52.38S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 17923800000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.64923054
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT29M55.17S",
+      "duration": "PT0.86S",
+      "offsetInTicks": 17951700000.0,
+      "durationInTicks": 8600000.0,
+      "nBest": [
+        {
+          "confidence": 0.71598876,
+          "lexical": "नहीं सर पानी है",
+          "itn": "नहीं सर पानी है",
+          "maskedITN": "नहीं सर पानी है।",
+          "display": "नहीं, सर, पानी है।",
+          "words": [
+            {
+              "word": "नहीं",
+              "offset": "PT29M55.17S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 17951700000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.5337587
+            },
+            {
+              "word": "सर",
+              "offset": "PT29M55.31S",
+              "duration": "PT0.18S",
+              "offsetInTicks": 17953100000.0,
+              "durationInTicks": 1800000.0,
+              "confidence": 0.6705333
+            },
+            {
+              "word": "पानी",
+              "offset": "PT29M55.5S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 17955000000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.6926167
+            },
+            {
+              "word": "है",
+              "offset": "PT29M55.92S",
+              "duration": "PT0.11S",
+              "offsetInTicks": 17959200000.0,
+              "durationInTicks": 1100000.0,
+              "confidence": 0.7782887
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT29M56.04S",
+      "duration": "PT0.46S",
+      "offsetInTicks": 17960400000.0,
+      "durationInTicks": 4600000.0,
+      "nBest": [
+        {
+          "confidence": 0.71598876,
+          "lexical": "ना",
+          "itn": "ना",
+          "maskedITN": "ना",
+          "display": "ना?",
+          "words": [
+            {
+              "word": "ना",
+              "offset": "PT29M56.04S",
+              "duration": "PT0.46S",
+              "offsetInTicks": 17960400000.0,
+              "durationInTicks": 4600000.0,
+              "confidence": 0.793625
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

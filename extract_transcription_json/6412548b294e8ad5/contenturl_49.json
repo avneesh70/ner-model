@@ -1,0 +1,185 @@
+{
+  "source": "https://pharynxaitranscribe.blob.core.windows.net/6412548b294e8ad5/6412548b294e8ad5_7_5_20225.wav",
+  "timestamp": "2022-06-03T02:03:34Z",
+  "durationInTicks": 1354500000,
+  "duration": "PT2M15.45S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "चलो ओके बताओ तब दिया ओके",
+      "itn": "चलो ओके बताओ तब दिया ओके",
+      "maskedITN": "चलो। ओके बताओ। तब। दिया। ओके",
+      "display": "चलो। ओके? बताओ। तब। दिया। ओके?"
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.11S",
+      "duration": "PT0.45S",
+      "offsetInTicks": 11100000.0,
+      "durationInTicks": 4500000.0,
+      "nBest": [
+        {
+          "confidence": 0.35222596,
+          "lexical": "चलो",
+          "itn": "चलो",
+          "maskedITN": "चलो।",
+          "display": "चलो।",
+          "words": [
+            {
+              "word": "चलो",
+              "offset": "PT1.11S",
+              "duration": "PT0.45S",
+              "offsetInTicks": 11100000.0,
+              "durationInTicks": 4500000.0,
+              "confidence": 0.35222596
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT21.61S",
+      "duration": "PT0.35S",
+      "offsetInTicks": 216100000.0,
+      "durationInTicks": 3500000.0,
+      "nBest": [
+        {
+          "confidence": 0.2295863,
+          "lexical": "ओके",
+          "itn": "ओके",
+          "maskedITN": "ओके",
+          "display": "ओके?",
+          "words": [
+            {
+              "word": "ओके",
+              "offset": "PT21.61S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 216100000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.2295863
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT42.42S",
+      "duration": "PT0.61S",
+      "offsetInTicks": 424200000.0,
+      "durationInTicks": 6100000.0,
+      "nBest": [
+        {
+          "confidence": 0.22123814,
+          "lexical": "बताओ",
+          "itn": "बताओ",
+          "maskedITN": "बताओ।",
+          "display": "बताओ।",
+          "words": [
+            {
+              "word": "बताओ",
+              "offset": "PT42.42S",
+              "duration": "PT0.61S",
+              "offsetInTicks": 424200000.0,
+              "durationInTicks": 6100000.0,
+              "confidence": 0.22123814
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1M0.05S",
+      "duration": "PT0.43S",
+      "offsetInTicks": 600500000.0,
+      "durationInTicks": 4300000.0,
+      "nBest": [
+        {
+          "confidence": 0.3871044,
+          "lexical": "तब",
+          "itn": "तब",
+          "maskedITN": "तब।",
+          "display": "तब।",
+          "words": [
+            {
+              "word": "तब",
+              "offset": "PT1M0.05S",
+              "duration": "PT0.43S",
+              "offsetInTicks": 600500000.0,
+              "durationInTicks": 4300000.0,
+              "confidence": 0.3871044
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1M20.67S",
+      "duration": "PT0.54S",
+      "offsetInTicks": 806700000.0,
+      "durationInTicks": 5400000.0,
+      "nBest": [
+        {
+          "confidence": 0.21299481,
+          "lexical": "दिया",
+          "itn": "दिया",
+          "maskedITN": "दिया।",
+          "display": "दिया।",
+          "words": [
+            {
+              "word": "दिया",
+              "offset": "PT1M20.67S",
+              "duration": "PT0.54S",
+              "offsetInTicks": 806700000.0,
+              "durationInTicks": 5400000.0,
+              "confidence": 0.21299481
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1M25.98S",
+      "duration": "PT1S",
+      "offsetInTicks": 859800000.0,
+      "durationInTicks": 10000000.0,
+      "nBest": [
+        {
+          "confidence": 0.29384848,
+          "lexical": "ओके",
+          "itn": "ओके",
+          "maskedITN": "ओके",
+          "display": "ओके?",
+          "words": [
+            {
+              "word": "ओके",
+              "offset": "PT1M25.98S",
+              "duration": "PT1S",
+              "offsetInTicks": 859800000.0,
+              "durationInTicks": 10000000.0,
+              "confidence": 0.29384848
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
