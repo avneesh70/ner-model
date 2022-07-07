@@ -1,6 +1,14 @@
 import spacy, json
 from spacy.lang.en import English
 from spacy.pipeline import EntityRuler
+
+def test_model(model, text):
+    doc = model(text)
+    results = []
+    for ent in doc.ents:
+        results.append(ent.text)
+    return results    
+
 nlp = spacy.load('en_core_web_sm')
 ipTxt = ""
 with open('extract_transcription_json/6412548b294e8ad5/contenturl_0.json', 'r')  as f:
@@ -38,7 +46,7 @@ with open('wordSetDict.json', 'r') as f:
         if i.strip() in data:
             ipTestListTrans.append(data[i.strip()])
 
-# print(ipTestListTrans)
+print(ipTestListTrans)
 
 doc = nlp(ipTxtTrans)
 # for ent in doc.ents:
@@ -51,6 +59,11 @@ for item in ipTestListTrans:
 # print(patterns)
 nlp = English()
 # ruler = EntityRuler(nlp)
-ruler = nlp.add_pipe("entity_ruler")
-ruler.add_patterns(patterns)
-nlp.to_disk("tes_ner")
+# ruler = nlp.add_pipe("entity_ruler")
+# ruler.add_patterns(patterns)
+# nlp.to_disk("tes_ner")
+
+nlp = spacy.load("tes_ner")
+# print(ipTxtTrans)
+results = test_model(nlp, ipTxtTrans)
+print(results)
