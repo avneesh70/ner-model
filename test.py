@@ -1,15 +1,10 @@
-import spacy, json
+import spacy, json, pandas
 from spacy.lang.en import English
 from spacy.pipeline import EntityRuler
+from spacy.tokens import DocBin
 
-def test_model(model, text):
-    doc = model(text)
-    results = []
-    for ent in doc.ents:
-        results.append(ent.text)
-    return results    
 
-nlp = spacy.load('en_core_web_sm')
+nlp = spacy.load('training/model-best')
 ipTxt = ""
 with open('extract_transcription_json/6412548b294e8ad5/contenturl_0.json', 'r')  as f:
     data = json.load(f)
@@ -28,42 +23,43 @@ with open('wordSetDict.json', 'r') as f:
         if i in data:
             ipTxtTrans += data[i] + " "
 
-ipTest = ""
-with open('hindi_keywords.txt', 'r') as f:
-    ipTest = f.read().strip('\n')
 
-# ipTest.split('\n')
-ipTestList = ipTest.split('\n')
-ipTestListTrans = []
+"""write trigger words in hinglish"""
+# ipTest = ""
 
-with open('wordSetDict.json', 'r') as f:
-    data = json.load(f)
-    for i in ipTestList:
-        # print(type(i.text))
-        if i.strip().isdigit():
-            ipTestListTrans.append(data[i.strip()])
-            continue
-        if i.strip() in data:
-            ipTestListTrans.append(data[i.strip()])
+# with open('hindi_keywords.txt', 'r') as f:
+#     ipTest = f.read().strip('\n')
 
-print(ipTestListTrans)
+# # ipTest.split('\n')
+# ipTestList = ipTest.split('\n')
+# ipTestListTrans = []
+
+# with open('wordSetDict.json', 'r') as f:
+#     data = json.load(f)
+#     for i in ipTestList:
+#         # print(type(i.text))
+#         if i.strip().isdigit():
+#             ipTestListTrans.append(data[i.strip()] + '\n')
+#             continue
+#         if i.strip() in data:
+#             ipTestListTrans.append(data[i.strip()] + '\n')
+
+# print(ipTestListTrans)
+# with open("inputWords.txt", 'w') as f:
+#     f.writelines(ipTestListTrans)
 
 doc = nlp(ipTxtTrans)
-# for ent in doc.ents:
-#     print(ent.text, ent.label_)
+testData = []
+# for token in doc:
+#     print(token.text, token.pos_, token.dep_, token.has_vector)
+for ent in doc.ents:
+    print(ent.text, ent.label_, ent.start_char, ent.end_char)
 
-patterns = []
-for item in ipTestListTrans:
-    pattern = {"label": "PERSON", "pattern" : item}
-    patterns.append(pattern)
+# results = createTraining(doc)
+
+"""take hinglish data into list"""
+# patterns = []
+# for item in ipTestListTrans:
+#     pattern = {"label": "PERSON", "pattern" : item}
+#     patterns.append(pattern)
 # print(patterns)
-nlp = English()
-# ruler = EntityRuler(nlp)
-# ruler = nlp.add_pipe("entity_ruler")
-# ruler.add_patterns(patterns)
-# nlp.to_disk("tes_ner")
-
-nlp = spacy.load("tes_ner")
-# print(ipTxtTrans)
-results = test_model(nlp, ipTxtTrans)
-print(results)
